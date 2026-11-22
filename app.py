@@ -43,7 +43,7 @@ SIGMA = 0.5                    # spread of signing time (log scale), assumption
 ASSUMED_MIX = [55, 25, 12, 6, 2]   # Darren gave 100 prospects but not their stages. THIS IS A GUESS.
 
 DATA_FILE = Path(os.getenv("CHENORA_DATA", Path(__file__).parent / "pipeline.csv"))
-SAMPLE_FILE = Path(__file__).parent / "sample_pipeline.csv"
+SAMPLE_FILE = Path(__file__).parent / "data" / "sample_pipeline.csv"
 
 st.set_page_config(page_title="Chenora pipeline tracker", layout="wide")
 

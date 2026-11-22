@@ -1,0 +1,9 @@
+issue,count
+rows,612
+duplicate firm_id rows,12
+missing annual_revenue_usd,31
+missing has_digital_records,20
+accounts stored as text (e.g. '1.2k'),10
+negative accounts_managed,4
+revenue reported in KES,16
+segment labels that are not standard ids,26

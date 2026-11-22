@@ -1,0 +1,176 @@
+{
+  "days": 70,
+  "target": 5,
+  "counts": {
+    "Identified": 55,
+    "Contacted": 25,
+    "Scoping call": 12,
+    "Quote sent": 6,
+    "Negotiation": 2
+  },
+  "scenarios": {
+    "Pessimistic": {
+      "p": 0.0716,
+      "mean": 2.39225,
+      "p10": 1.0,
+      "p90": 4.0
+    },
+    "Base": {
+      "p": 0.66195,
+      "mean": 5.4263,
+      "p10": 3.0,
+      "p90": 8.0
+    },
+    "Optimistic": {
+      "p": 0.99015,
+      "mean": 10.3497,
+      "p10": 7.0,
+      "p90": 14.0
+    }
+  },
+  "extra": {
+    "Pessimistic": {
+      "quote": 25,
+      "scoping": 119
+    },
+    "Base": {
+      "quote": 4,
+      "scoping": 9
+    },
+    "Optimistic": {
+      "quote": 0,
+      "scoping": 0
+    }
+  },
+  "stress": [
+    {
+      "Change (Base scenario)": "Win rates 30% lower",
+      "P(target)": 0.32,
+      "Shift (points)": -34
+    },
+    {
+      "Change (Base scenario)": "Win rates 30% higher",
+      "P(target)": 0.88,
+      "Shift (points)": 22
+    },
+    {
+      "Change (Base scenario)": "+5 prospects at Quote sent",
+      "P(target)": 0.86,
+      "Shift (points)": 20
+    },
+    {
+      "Change (Base scenario)": "+10 prospects at Scoping call",
+      "P(target)": 0.83,
+      "Shift (points)": 17
+    },
+    {
+      "Change (Base scenario)": "15 fewer days",
+      "P(target)": 0.52,
+      "Shift (points)": -15
+    },
+    {
+      "Change (Base scenario)": "15 more days",
+      "P(target)": 0.74,
+      "Shift (points)": 8
+    }
+  ],
+  "ranking": {
+    "B2B software / SaaS": {
+      "score": 77.0,
+      "top1": 0.7825,
+      "top3": 1.0
+    },
+    "B2B logistics and freight": {
+      "score": 71.00000000000001,
+      "top1": 0.0975,
+      "top3": 0.9975
+    },
+    "Payments and fintech platforms": {
+      "score": 71.0,
+      "top1": 0.12,
+      "top3": 0.997
+    },
+    "B2B travel-tech": {
+      "score": 57.999999999999986,
+      "top1": 0.0,
+      "top3": 0.005
+    },
+    "Distributors and wholesalers": {
+      "score": 54.0,
+      "top1": 0.0,
+      "top3": 0.0005
+    },
+    "Insurance brokers": {
+      "score": 49.00000000000001,
+      "top1": 0.0,
+      "top3": 0.0
+    },
+    "Manufacturers with dealer networks": {
+      "score": 48.99999999999999,
+      "top1": 0.0,
+      "top3": 0.0
+    }
+  },
+  "n80": 12,
+  "five_at_gate": 60000,
+  "legacy_annual": 6000,
+  "price_table": [
+    {
+      "accounts": 500,
+      "revenue per account (USD)": 1500,
+      "platform fee": 12000.0,
+      "revenue share": 2250,
+      "year-one value": 14250
+    },
+    {
+      "accounts": 1000,
+      "revenue per account (USD)": 1500,
+      "platform fee": 12000.0,
+      "revenue share": 4500,
+      "year-one value": 16500
+    },
+    {
+      "accounts": 2000,
+      "revenue per account (USD)": 1500,
+      "platform fee": 24000.0,
+      "revenue share": 9000,
+      "year-one value": 33000
+    },
+    {
+      "accounts": 3000,
+      "revenue per account (USD)": 1500,
+      "platform fee": 36000.0,
+      "revenue share": 13500,
+      "year-one value": 49500
+    },
+    {
+      "accounts": 5000,
+      "revenue per account (USD)": 1500,
+      "platform fee": 60000.0,
+      "revenue share": 22500,
+      "year-one value": 82500
+    }
+  ],
+  "universe": {
+    "raw_rows": 612,
+    "clean_rows": 600,
+    "pass": 94,
+    "tier_a": 3,
+    "tier_b": 91,
+    "median_value_pass": 24828.0
+  },
+  "planted": {
+    "missing_revenue": 30,
+    "missing_digital_records_flag": 20,
+    "segment_label_variants": 25,
+    "accounts_as_text_k": 10,
+    "negative_account_counts": 4,
+    "revenue_in_kes": 15,
+    "duplicate_rows": 12
+  },
+  "cleaning": {
+    "duplicates_removed": 12,
+    "negative_accounts_set_to_missing": 4,
+    "revenue_converted_from_kes": 15
+  }
+}

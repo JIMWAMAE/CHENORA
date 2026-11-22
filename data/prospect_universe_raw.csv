@@ -1,0 +1,613 @@
+firm_id,firm_name,segment,county,accounts_managed,annual_revenue_usd,has_digital_records,decision_maker_access,lead_source,revenue_currency
+DS-001,Fictional Distributors firm DS-001,distributors,Nakuru,153,80000.0,No,Yes,Registry list,USD
+MF-001,Fictional Manufacturers with dealer networks firm MF-001,manufacturers,Nakuru,57,132000.0,No,Yes,Founder network,USD
+MF-002,Fictional Manufacturers with dealer networks firm MF-002,manufacturers,Nairobi,2181,16965000.0,Yes,Yes,Outbound email,USD
+LG-001,Fictional B2B logistics firm LG-001,  LOGISTICS ,Nairobi,522,721000.0,Yes,No,Event,USD
+PY-001,Fictional Payments firm PY-001,payments,Kisumu,5329,3138000.0,Yes,Yes,Referral,USD
+DS-002,Fictional Distributors firm DS-002,distributors,Nairobi,5151,3387000.0,No,No,Partner introduction,USD
+SW-001,Fictional B2B software firm SW-001,b2b_software,Mombasa,498,865000.0,Yes,Yes,Registry list,USD
+SW-002,Fictional B2B software firm SW-002,b2b_software,Nakuru,116,55000.0,No,Yes,Registry list,USD
+PY-002,Fictional Payments firm PY-002,payments,Nairobi,1357,1548000.0,Yes,No,Partner introduction,USD
+MF-003,Fictional Manufacturers with dealer networks firm MF-003,manufacturers,Nairobi,182,471000.0,Yes,Yes,Referral,USD
+LG-002,Fictional B2B logistics firm LG-002,logistics,Nairobi,375,1017000.0,Yes,Yes,Founder network,USD
+MF-004,Fictional Manufacturers with dealer networks firm MF-004,manufacturers,Nairobi,423,1893000.0,No,Yes,Partner introduction,USD
+LG-003,Fictional B2B logistics firm LG-003,logistics,Nairobi,1304,929000.0,Yes,No,Outbound email,USD
+PY-003,Fictional Payments firm PY-003,payments,Nairobi,2501,929000.0,Yes,Yes,Partner introduction,USD
+PY-004,Fictional Payments firm PY-004,payments,Mombasa,3161,2176000.0,Yes,No,Referral,USD
+DS-003,Fictional Distributors firm DS-003,distributors,Nairobi,456,306000.0,No,No,Founder network,USD
+MF-005,Fictional Manufacturers with dealer networks firm MF-005,manufacturers,Mombasa,113,378000.0,Yes,No,Partner introduction,USD
+SW-003,Fictional B2B software firm SW-003,b2b_software,Machakos,1154,1313000.0,Yes,No,Registry list,USD
+PY-005,Fictional Payments firm PY-005,payments,Kiambu,1183,697000.0,Yes,No,Outbound email,USD
+LG-004,Fictional B2B logistics firm LG-004,logistics,Nairobi,525,1991000.0,Yes,Yes,Referral,USD
+SW-004,Fictional B2B software firm SW-004,b2b_software,Kiambu,1439,2064000.0,Yes,Yes,Registry list,USD
+MF-006,Fictional Manufacturers with dealer networks firm MF-006,manufacturers,Kisumu,1048,3215000.0,No,Yes,Founder network,USD
+SW-005,Fictional B2B software firm SW-005,b2b_software,Nairobi,914,1766000.0,Yes,Yes,Outbound email,USD
+PY-006,Fictional Payments firm PY-006,payments,Nakuru,3951,1096000.0,Yes,No,Event,USD
+LG-005,Fictional B2B logistics firm LG-005,logistics,Mombasa,381,,Yes,Yes,Event,USD
+PY-007,Fictional Payments firm PY-007,payments,Nairobi,1321,1111000.0,Yes,No,Event,USD
+LG-006,Fictional B2B logistics firm LG-006,logistics,Nairobi,518,1275000.0,Yes,No,Referral,USD
+DS-004,Fictional Distributors firm DS-004,distributors,Nairobi,419,208000.0,No,Yes,Founder network,USD
+SW-006,Fictional B2B software firm SW-006,b2b_software,Machakos,538,1209000.0,Yes,No,Outbound email,USD
+DS-005,Fictional Distributors firm DS-005,distributors,Nairobi,2218,172120000.0,No,Yes,Outbound email,KES
+MF-007,Fictional Manufacturers with dealer networks firm MF-007,manufacturers,Nairobi,1325,2636000.0,No,No,Partner introduction,USD
+DS-006,Fictional Distributors firm DS-006,distributors,Nairobi,2328,969000.0,Yes,Yes,Founder network,USD
+MF-008,Fictional Manufacturers with dealer networks firm MF-008,manufacturers,Kisumu,248,1294000.0,Yes,No,Partner introduction,USD
+DS-007,Fictional Distributors firm DS-007,distributors,Nairobi,1400,,Yes,Yes,Event,USD
+LG-007,Fictional B2B logistics firm LG-007,logistics,Nairobi,138,201000.0,No,No,Registry list,USD
+PY-008,Fictional Payments firm PY-008,payments,Mombasa,2218,,Yes,Yes,Registry list,USD
+SW-007,Fictional B2B software firm SW-007,b2b_software,Kisumu,1095,1277000.0,Yes,No,Registry list,USD
+DS-008,Fictional Distributors firm DS-008,distributors,Other,166,113000.0,Yes,Yes,Referral,USD
+DS-009,Fictional Distributors firm DS-009,distributors,Nairobi,1378,938000.0,No,Yes,Partner introduction,USD
+TT-001,Fictional B2B travel-tech firm TT-001,travel_tech,Nakuru,404,993000.0,Yes,No,Event,USD
+DS-010,Fictional Distributors firm DS-010,distributors,Nairobi,2016,698000.0,No,Yes,Event,USD
+DS-011,Fictional Distributors firm DS-011,distributors,Mombasa,480,122000.0,Yes,Yes,Referral,USD
+MF-009,Fictional Manufacturers with dealer networks firm MF-009,manufacturers,Nairobi,283,387000.0,Yes,Yes,Founder network,USD
+DS-012,Fictional Distributors firm DS-012,distributors,Nairobi,1030,448000.0,No,Yes,Partner introduction,USD
+DS-013,Fictional Distributors firm DS-013,distributors,Kiambu,934,1675000.0,No,Yes,Founder network,USD
+DS-014,Fictional Distributors firm DS-014,distributors,Nakuru,510,222000.0,No,No,Founder network,USD
+SW-008,Fictional B2B software firm SW-008,b2b_software,Nairobi,1018,,Yes,Yes,Referral,KES
+LG-008,Fictional B2B logistics firm LG-008,logistics,Mombasa,81,99000.0,Yes,No,Registry list,USD
+LG-009,Fictional B2B logistics firm LG-009,logistics,Nairobi,784,1420000.0,Yes,Yes,Registry list,USD
+DS-015,Fictional Distributors firm DS-015,distributors,Other,2539,3102000.0,No,No,Partner introduction,USD
+DS-016,Fictional Distributors firm DS-016,distributors,Uasin Gishu,818,325000.0,No,No,Outbound email,USD
+SW-009,Fictional B2B software firm SW-009,b2b_software,Nairobi,3065,6212000.0,Yes,Yes,Event,USD
+LG-010,Fictional B2B logistics firm LG-010,logistics,Machakos,323,585000.0,No,Yes,Partner introduction,USD
+TT-002,Fictional B2B travel-tech firm TT-002,travel_tech,Machakos,238,149000.0,No,Yes,Partner introduction,USD
+LG-011,Fictional B2B logistics firm LG-011,logistics,Kisumu,102,174000.0,Yes,No,Referral,USD
+MF-010,Fictional Manufacturers with dealer networks firm MF-010,manufacturers,Other,1219,2076000.0,Yes,Yes,Registry list,USD
+PY-009,Fictional Payments firm PY-009,payments,Kisumu,12041,1230000.0,Yes,Yes,Referral,USD
+LG-012,Fictional B2B logistics firm LG-012,logistics,Mombasa,479,452000.0,No,Yes,Registry list,USD
+PY-010,Fictional Payments firm PY-010,payments,Nakuru,15931,4755000.0,Yes,Yes,Partner introduction,USD
+PY-011,Fictional Payments firm PY-011,payments,Uasin Gishu,7819,3824000.0,Yes,No,Registry list,USD
+SW-010,Fictional B2B software firm SW-010,b2b_software,Kiambu,562,325000.0,Yes,No,Referral,USD
+IB-001,Fictional Insurance brokers firm IB-001,insurance_brokers,Mombasa,2708,1261000.0,Yes,Yes,Event,USD
+TT-003,Fictional B2B travel-tech firm TT-003,travel_tech,Nairobi,4597,7189000.0,No,Yes,Outbound email,USD
+LG-013,Fictional B2B logistics firm LG-013,logistics,Nairobi,861,1160000.0,Yes,Yes,Founder network,USD
+LG-014,Fictional B2B logistics firm LG-014,logistics,Nairobi,623,1352000.0,No,No,Event,USD
+SW-011,Fictional B2B software firm SW-011,b2b_software,Kiambu,266,236000.0,Yes,No,Referral,USD
+DS-017,Fictional Distributors firm DS-017,distributors,Kisumu,-1284,840000.0,Yes,Yes,Registry list,USD
+SW-012,Fictional B2B software firm SW-012,b2b_software,Nairobi,1006,2251000.0,Yes,Yes,Partner introduction,USD
+LG-015,Fictional B2B logistics firm LG-015,logistics,Nairobi,739,,Yes,No,Referral,USD
+TT-004,Fictional B2B travel-tech firm TT-004,travel_tech,Nairobi,595,490000.0,,Yes,Partner introduction,USD
+MF-011,Fictional Manufacturers with dealer networks firm MF-011,manufacturers,Nairobi,464,1925000.0,No,Yes,Outbound email,USD
+LG-016,Fictional B2B logistics firm LG-016,logistics,Nairobi,286,767000.0,No,Yes,Referral,USD
+SW-013,Fictional B2B software firm SW-013,b2b_software,Nairobi,509,648000.0,Yes,Yes,Founder network,USD
+PY-012,Fictional Payments firm PY-012,payments,Kisumu,1060,208000.0,Yes,Yes,Partner introduction,USD
+MF-012,Fictional Manufacturers with dealer networks firm MF-012,manufacturers,Nairobi,291,362000.0,Yes,No,Referral,USD
+IB-002,Fictional Insurance brokers firm IB-002,insurance_brokers,Nairobi,1.1k,373000.0,Yes,No,Referral,USD
+PY-013,Fictional Payments firm PY-013,payments,Nairobi,1777,1429000.0,Yes,Yes,Event,USD
+LG-017,Fictional B2B logistics firm LG-017,logistics,Mombasa,499,910000.0,Yes,Yes,Event,USD
+LG-018,Fictional B2B logistics firm LG-018,logistics,Uasin Gishu,394,537000.0,Yes,Yes,Registry list,USD
+TT-005,Fictional B2B travel-tech firm TT-005,travel_tech,Nairobi,-358,167000.0,Yes,Yes,Outbound email,USD
+LG-019,Fictional B2B logistics firm LG-019,logistics,Kiambu,1.0k,2959000.0,Yes,No,Registry list,USD
+SW-014,Fictional B2B software firm SW-014,b2b_software,Mombasa,579,648000.0,Yes,Yes,Outbound email,USD
+DS-018,Fictional Distributors firm DS-018,distributors,Nairobi,9729,5864000.0,No,No,Outbound email,USD
+MF-013,Fictional Manufacturers with dealer networks firm MF-013,manufacturers,Uasin Gishu,159,842000.0,Yes,No,Referral,USD
+LG-020,Fictional B2B logistics firm LG-020,logistics,Nairobi,71,,No,No,Outbound email,USD
+DS-019,Fictional Distributors firm DS-019,distributors,Machakos,3260,1301000.0,No,No,Event,USD
+MF-014,Fictional Manufacturers with dealer networks firm MF-014,manufacturers,Uasin Gishu,382,758000.0,Yes,Yes,Event,USD
+DS-020,Fictional Distributors firm DS-020,distributors,Mombasa,186,131000.0,No,No,Event,USD
+MF-015,Fictional Manufacturers with dealer networks firm MF-015,manufacturers,Nairobi,337,630000.0,No,No,Registry list,USD
+IB-003,Fictional Insurance brokers firm IB-003,insurance_brokers,Kiambu,628,375000.0,No,No,Founder network,USD
+LG-021,Fictional B2B logistics firm LG-021,logistics,Nairobi,486,742000.0,Yes,No,Founder network,USD
+MF-016,Fictional Manufacturers with dealer networks firm MF-016,manufacturers,Mombasa,211,792000.0,Yes,Yes,Outbound email,USD
+TT-006,Fictional B2B travel-tech firm TT-006,travel_tech,Machakos,646,,Yes,Yes,Partner introduction,USD
+TT-007,Fictional B2B travel-tech firm TT-007,travel_tech,Other,658,695000.0,Yes,Yes,Registry list,USD
+SW-015,Fictional B2B software firm SW-015,b2b_software,Nairobi,451,352000.0,Yes,No,Referral,USD
+LG-022,Fictional B2B logistics firm LG-022,logistics,Mombasa,2050,2757000.0,Yes,No,Referral,USD
+IB-004,Fictional Insurance brokers firm IB-004,insurance_brokers,Machakos,2823,1429000.0,No,Yes,Outbound email,USD
+MF-017,Fictional Manufacturers with dealer networks firm MF-017,manufacturers,Nakuru,136,600000.0,No,Yes,Outbound email,USD
+MF-018,Fictional Manufacturers with dealer networks firm MF-018,manufacturers,Nairobi,169,237000.0,No,Yes,Partner introduction,USD
+LG-023,Fictional B2B logistics firm LG-023,logistics,Uasin Gishu,306,855000.0,No,Yes,Founder network,USD
+SW-016,Fictional B2B software firm SW-016,b2b_software,Mombasa,496,1016000.0,Yes,No,Registry list,USD
+SW-017,Fictional B2B software firm SW-017,b2b_software,Nairobi,329,196000.0,Yes,Yes,Registry list,USD
+TT-008,Fictional B2B travel-tech firm TT-008,travel_tech,Nairobi,705,731000.0,,Yes,Founder network,USD
+DS-021,Fictional Distributors firm DS-021,distributors,Nakuru,1123,1413000.0,Yes,Yes,Registry list,USD
+MF-019,Fictional Manufacturers with dealer networks firm MF-019,manufacturers,Mombasa,356,,Yes,Yes,Partner introduction,USD
+SW-018,Fictional B2B software firm SW-018,b2b_software,Mombasa,1695,3931000.0,Yes,No,Partner introduction,USD
+DS-022,Fictional Distributors firm DS-022,distributors,Mombasa,1099,,Yes,Yes,Founder network,USD
+DS-023,Fictional Distributors firm DS-023,distributors,Kiambu,890,621000.0,No,No,Event,USD
+SW-019,Fictional B2B software firm SW-019,b2b_software,Nairobi,0.5k,371000.0,No,Yes,Registry list,USD
+DS-024,Fictional Distributors firm DS-024,  DISTRIBUTORS ,Kiambu,484,303000.0,No,Yes,Outbound email,USD
+SW-020,Fictional B2B software firm SW-020,b2b_software,Other,1406,1148000.0,Yes,No,Founder network,USD
+LG-024,Fictional B2B logistics firm LG-024,logistics,Nakuru,847,2180000.0,No,No,Registry list,USD
+LG-025,Fictional B2B logistics firm LG-025,logistics,Nairobi,264,517000.0,Yes,Yes,Outbound email,USD
+LG-026,Fictional B2B logistics firm LG-026,logistics,Nairobi,318,642000.0,Yes,Yes,Outbound email,USD
+MF-020,Fictional Manufacturers with dealer networks firm MF-020,manufacturers,Nairobi,60,130000.0,No,Yes,Founder network,USD
+IB-005,Fictional Insurance brokers firm IB-005,insurance_brokers,Mombasa,508,169000.0,Yes,Yes,Referral,USD
+MF-021,Fictional Manufacturers with dealer networks firm MF-021,manufacturers,Nairobi,427,1045000.0,No,No,Founder network,USD
+TT-009,Fictional B2B travel-tech firm TT-009,travel_tech,Machakos,2385,2198000.0,Yes,Yes,Referral,USD
+SW-021,Fictional B2B software firm SW-021,b2b_software,Nairobi,326,385000.0,Yes,Yes,Partner introduction,USD
+DS-025,Fictional Distributors firm DS-025,distributors,Nairobi,1712,,Yes,Yes,Referral,USD
+PY-014,Fictional Payments firm PY-014,payments,Nairobi,3045,883000.0,Yes,Yes,Founder network,USD
+DS-026,Fictional Distributors firm DS-026,  DISTRIBUTORS ,Nairobi,1314,1109000.0,Yes,Yes,Referral,USD
+SW-022,Fictional B2B software firm SW-022,b2b_software,Kisumu,842,1037000.0,Yes,No,Referral,USD
+DS-027,Fictional Distributors firm DS-027,distributors,Nairobi,1844,841000.0,Yes,Yes,Event,USD
+TT-010,Fictional B2B travel-tech firm TT-010,travel_tech,Nairobi,918,534000.0,Yes,Yes,Registry list,USD
+LG-027,Fictional B2B logistics firm LG-027,logistics,Nairobi,924,1884000.0,Yes,No,Registry list,USD
+LG-028,Fictional B2B logistics firm LG-028,logistics,Nakuru,530,743000.0,Yes,No,Registry list,USD
+MF-022,Fictional Manufacturers with dealer networks firm MF-022,manufacturers,Nairobi,150,543000.0,No,Yes,Partner introduction,USD
+IB-006,Fictional Insurance brokers firm IB-006,insurance_brokers,Nairobi,3022,,Yes,No,Partner introduction,USD
+IB-007,Fictional Insurance brokers firm IB-007,insurance_brokers,Kiambu,497,192000.0,Yes,Yes,Registry list,USD
+SW-023,Fictional B2B software firm SW-023,b2b_software,Nairobi,2578,1090000.0,Yes,No,Event,USD
+DS-028,Fictional Distributors firm DS-028,distributors,Machakos,267,319000.0,No,No,Partner introduction,USD
+LG-029,Fictional B2B logistics firm LG-029,logistics,Nairobi,4014,3517000.0,Yes,No,Outbound email,USD
+IB-008,Fictional Insurance brokers firm IB-008,insurance_brokers,Nairobi,1425,303000.0,Yes,Yes,Registry list,USD
+TT-011,Fictional B2B travel-tech firm TT-011,travel_tech,Nakuru,2092,1088000.0,Yes,No,Founder network,USD
+DS-029,Fictional Distributors firm DS-029,distributors,Nairobi,1213,330000.0,Yes,No,Founder network,USD
+IB-009,Fictional Insurance brokers firm IB-009,insurance_brokers,Nairobi,3697,2445000.0,Yes,Yes,Founder network,USD
+PY-015,Fictional Payments firm PY-015,payments,Nairobi,2492,640000.0,Yes,No,Founder network,USD
+DS-030,Fictional Distributors firm DS-030,distributors,Nairobi,1669,543000.0,Yes,Yes,Event,USD
+DS-031,Fictional Distributors firm DS-031,distributors,Kiambu,154,47000.0,No,Yes,Registry list,USD
+IB-010,Fictional Insurance brokers firm IB-010,insurance_brokers,Kisumu,942,287000.0,Yes,Yes,Partner introduction,USD
+LG-030,Fictional B2B logistics firm LG-030,logistics,Nairobi,245,252000.0,No,Yes,Outbound email,USD
+PY-016,Fictional Payments firm PY-016,payments,Nairobi,6570,2930000.0,Yes,No,Event,USD
+MF-023,Fictional Manufacturers with dealer networks firm MF-023,manufacturers,Nairobi,135,141000.0,No,Yes,Outbound email,USD
+PY-017,Fictional Payments firm PY-017,payments,Nairobi,1182,478000.0,Yes,Yes,Referral,USD
+SW-024,Fictional B2B software firm SW-024,b2b_software,Nakuru,1435,698000.0,Yes,Yes,Founder network,USD
+IB-011,Fictional Insurance brokers firm IB-011,insurance_brokers,Mombasa,1040,395000.0,Yes,Yes,Event,USD
+MF-024,Fictional Manufacturers with dealer networks firm MF-024,manufacturers,Nairobi,51,150000.0,No,No,Founder network,USD
+PY-018,Fictional Payments firm PY-018,payments,Nairobi,3090,906000.0,Yes,Yes,Event,USD
+LG-031,Fictional B2B logistics firm LG-031,logistics,Kiambu,0.1k,147000.0,Yes,Yes,Partner introduction,USD
+SW-025,Fictional B2B software firm SW-025,b2b_software,Nakuru,862,1446000.0,Yes,Yes,Founder network,USD
+LG-032,Fictional B2B logistics firm LG-032,logistics,Nairobi,898,673000.0,Yes,No,Founder network,USD
+DS-032,Fictional Distributors firm DS-032,distributors,Nairobi,1055,384000.0,,No,Registry list,USD
+LG-033,Fictional B2B logistics firm LG-033,  LOGISTICS ,Kiambu,2697,2792000.0,No,Yes,Registry list,USD
+PY-019,Fictional Payments firm PY-019,payments,Mombasa,3726,1898000.0,No,Yes,Outbound email,USD
+LG-034,Fictional B2B logistics firm LG-034,logistics,Kiambu,1246,384800000.0,No,Yes,Registry list,KES
+TT-012,Fictional B2B travel-tech firm TT-012,travel_tech,Nairobi,487,231000.0,Yes,Yes,Registry list,USD
+DS-033,Fictional Distributors firm DS-033,distributors,Kisumu,1325,1026000.0,Yes,No,Outbound email,USD
+DS-034,Fictional Distributors firm DS-034,distributors,Nairobi,884,1441000.0,No,No,Outbound email,USD
+MF-025,Fictional Manufacturers with dealer networks firm MF-025,manufacturers,Nairobi,443,3419000.0,Yes,Yes,Founder network,USD
+TT-013,Fictional B2B travel-tech firm TT-013,travel_tech,Kiambu,586,240000.0,No,Yes,Registry list,USD
+TT-014,Fictional B2B travel-tech firm TT-014,travel_tech,Mombasa,1841,845000.0,Yes,No,Partner introduction,USD
+MF-026,Fictional Manufacturers with dealer networks firm MF-026,manufacturers,Uasin Gishu,521,1129000.0,No,No,Founder network,USD
+IB-012,Fictional Insurance brokers firm IB-012,insurance_brokers,Uasin Gishu,1167,542000.0,Yes,No,Outbound email,USD
+SW-026,Fictional B2B software firm SW-026,b2b_software,Kisumu,637,705000.0,Yes,Yes,Registry list,USD
+DS-035,Fictional Distributors firm DS-035,distributors,Nairobi,298,277000.0,No,No,Referral,USD
+IB-013,Fictional Insurance brokers firm IB-013,insurance_brokers,Mombasa,1296,521000.0,No,Yes,Event,USD
+IB-014,Fictional Insurance brokers firm IB-014,insurance_brokers,Uasin Gishu,1806,221000.0,No,Yes,Partner introduction,USD
+MF-027,Fictional Manufacturers with dealer networks firm MF-027,manufacturers,Nairobi,240,971000.0,No,Yes,Event,USD
+IB-015,Fictional Insurance brokers firm IB-015,insurance_brokers,Nairobi,712,344000.0,Yes,Yes,Registry list,USD
+LG-035,Fictional B2B logistics firm LG-035,  LOGISTICS ,Mombasa,85,188000.0,,No,Founder network,USD
+DS-036,Fictional Distributors firm DS-036,distributors,Nairobi,625,419000.0,Yes,Yes,Partner introduction,USD
+SW-027,Fictional B2B software firm SW-027,b2b_software,Mombasa,1230,1443000.0,Yes,Yes,Partner introduction,USD
+PY-020,Fictional Payments firm PY-020,payments,Nairobi,2340,803000.0,Yes,No,Outbound email,USD
+DS-037,Fictional Distributors firm DS-037,  DISTRIBUTORS ,Machakos,540,224000.0,No,Yes,Registry list,USD
+LG-036,Fictional B2B logistics firm LG-036,logistics,Mombasa,563,1386000.0,Yes,Yes,Outbound email,USD
+SW-028,Fictional B2B software firm SW-028,b2b_software,Nairobi,878,995000.0,Yes,Yes,Partner introduction,USD
+PY-021,Fictional Payments firm PY-021,payments,Nairobi,1128,612000.0,Yes,Yes,Founder network,USD
+DS-038,Fictional Distributors firm DS-038,distributors,Nairobi,1418,,Yes,Yes,Referral,USD
+PY-022,Fictional Payments firm PY-022,payments,Nakuru,1548,306000.0,Yes,No,Referral,USD
+PY-023,Fictional Payments firm PY-023,payments,Mombasa,4866,1574000.0,Yes,Yes,Referral,USD
+PY-024,Fictional Payments firm PY-024,payments,Nairobi,2987,1353000.0,Yes,No,Registry list,USD
+PY-025,Fictional Payments firm PY-025,payments,Nairobi,1673,483000.0,Yes,Yes,Partner introduction,USD
+TT-015,Fictional B2B travel-tech firm TT-015,travel_tech,Nairobi,956,390000.0,Yes,Yes,Outbound email,USD
+LG-037,Fictional B2B logistics firm LG-037,logistics,Nairobi,1304,2834000.0,Yes,No,Founder network,USD
+LG-038,Fictional B2B logistics firm LG-038,logistics,Machakos,150,392000.0,Yes,Yes,Registry list,USD
+LG-039,Fictional B2B logistics firm LG-039,logistics,Kisumu,293,976000.0,No,Yes,Outbound email,USD
+SW-029,Fictional B2B software firm SW-029,b2b_software,Nairobi,529,272000.0,No,No,Partner introduction,USD
+TT-016,Fictional B2B travel-tech firm TT-016,travel_tech,Nairobi,797,644000.0,Yes,Yes,Event,USD
+SW-030,Fictional B2B software firm SW-030,b2b_software,Nairobi,58,69000.0,Yes,Yes,Partner introduction,USD
+IB-016,Fictional Insurance brokers firm IB-016,insurance_brokers,Nakuru,7484,1335000.0,Yes,No,Event,USD
+PY-026,Fictional Payments firm PY-026,payments,Nairobi,5159,4186000.0,Yes,Yes,Outbound email,USD
+TT-017,Fictional B2B travel-tech firm TT-017,travel_tech,Machakos,745,420000.0,Yes,No,Event,USD
+PY-027,Fictional Payments firm PY-027,payments,Nairobi,562,394000.0,Yes,No,Founder network,USD
+IB-017,Fictional Insurance brokers firm IB-017,insurance_brokers,Mombasa,249,69000.0,No,No,Registry list,USD
+DS-039,Fictional Distributors firm DS-039,distributors,Uasin Gishu,2121,1265000.0,Yes,Yes,Founder network,USD
+DS-040,Fictional Distributors firm DS-040,distributors,Nakuru,528,269000.0,Yes,Yes,Registry list,USD
+MF-028,Fictional Manufacturers with dealer networks firm MF-028,manufacturers,Nairobi,390,1937000.0,No,Yes,Partner introduction,USD
+SW-031,Fictional B2B software firm SW-031,b2b_software,Machakos,463,,Yes,Yes,Partner introduction,USD
+SW-032,Fictional B2B software firm SW-032,b2b_software,Kiambu,3158,5703000.0,Yes,Yes,Event,USD
+LG-040,Fictional B2B logistics firm LG-040,logistics,Machakos,843,1078000.0,No,No,Partner introduction,USD
+SW-033,Fictional B2B software firm SW-033,b2b_software,Nairobi,350,898000.0,Yes,No,Outbound email,USD
+LG-041,Fictional B2B logistics firm LG-041,logistics,Nairobi,408,702000.0,Yes,Yes,Registry list,USD
+IB-018,Fictional Insurance brokers firm IB-018,insurance_brokers,Nairobi,752,566000.0,Yes,Yes,Event,USD
+PY-028,Fictional Payments firm PY-028,payments,Kiambu,2430,694000.0,,Yes,Event,USD
+DS-041,Fictional Distributors firm DS-041,distributors,Nairobi,265,142000.0,No,Yes,Event,USD
+SW-034,Fictional B2B software firm SW-034,b2b_software,Nairobi,493,642000.0,Yes,No,Founder network,USD
+DS-042,Fictional Distributors firm DS-042,distributors,Nakuru,0.8k,646000.0,Yes,Yes,Registry list,USD
+SW-035,Fictional B2B software firm SW-035,b2b_software,Nairobi,452,435000.0,Yes,No,Partner introduction,USD
+TT-018,Fictional B2B travel-tech firm TT-018,travel_tech,Nairobi,543,360000.0,Yes,Yes,Outbound email,USD
+IB-019,Fictional Insurance brokers firm IB-019,insurance_brokers,Nairobi,924,779000.0,Yes,Yes,Founder network,USD
+PY-029,Fictional Payments firm PY-029,payments,Nairobi,1865,488000.0,Yes,Yes,Event,USD
+MF-029,Fictional Manufacturers with dealer networks firm MF-029,manufacturers,Kiambu,170,390000.0,No,Yes,Founder network,USD
+DS-043,Fictional Distributors firm DS-043,distributors,Other,7443,2663000.0,No,Yes,Outbound email,USD
+DS-044,Fictional Distributors firm DS-044,distributors,Nakuru,852,660000.0,Yes,Yes,Founder network,USD
+LG-042,Fictional B2B logistics firm LG-042,  LOGISTICS ,Kiambu,1130,2421000.0,Yes,Yes,Founder network,USD
+LG-043,Fictional B2B logistics firm LG-043,  LOGISTICS ,Nairobi,1728,2707000.0,No,Yes,Registry list,USD
+DS-045,Fictional Distributors firm DS-045,distributors,Machakos,448,280000.0,No,Yes,Outbound email,USD
+SW-036,Fictional B2B software firm SW-036,b2b_software,Nakuru,496,414000.0,Yes,Yes,Registry list,USD
+MF-030,Fictional Manufacturers with dealer networks firm MF-030,manufacturers,Nairobi,454,1638000.0,Yes,Yes,Registry list,USD
+PY-030,Fictional Payments firm PY-030,payments,Nairobi,8789,3004000.0,Yes,No,Event,USD
+SW-037,Fictional B2B software firm SW-037,b2b_software,Nairobi,323,314000.0,Yes,No,Founder network,USD
+DS-046,Fictional Distributors firm DS-046,distributors,Nairobi,2831,1012000.0,Yes,Yes,Founder network,USD
+DS-047,Fictional Distributors firm DS-047,distributors,Nairobi,34441,6351540000.0,Yes,Yes,Referral,KES
+DS-048,Fictional Distributors firm DS-048,distributors,Nairobi,1260,621000.0,No,No,Registry list,USD
+PY-031,Fictional Payments firm PY-031,payments,Nairobi,1606,548000.0,Yes,Yes,Registry list,USD
+DS-049,Fictional Distributors firm DS-049,distributors,Mombasa,739,1038000.0,No,Yes,Event,USD
+SW-038,Fictional B2B software firm SW-038,b2b_software,Uasin Gishu,688,932000.0,Yes,Yes,Event,USD
+MF-031,Fictional Manufacturers with dealer networks firm MF-031,manufacturers,Nakuru,160,308000.0,Yes,No,Referral,USD
+PY-032,Fictional Payments firm PY-032,payments,Nairobi,4714,1928000.0,Yes,No,Event,USD
+MF-032,Fictional Manufacturers with dealer networks firm MF-032,manufacturers,Machakos,1215,2870000.0,No,Yes,Event,USD
+IB-020,Fictional Insurance brokers firm IB-020,insurance_brokers,Nakuru,595,128000.0,No,Yes,Event,USD
+MF-033,Fictional Manufacturers with dealer networks firm MF-033,manufacturers,Nairobi,778,5828000.0,No,Yes,Partner introduction,USD
+MF-034,Fictional Manufacturers with dealer networks firm MF-034,manufacturers,Other,184,221000.0,No,No,Event,USD
+SW-039,Fictional B2B software firm SW-039,b2b_software,Nakuru,3551,10338000.0,Yes,Yes,Outbound email,USD
+SW-040,Fictional B2B software firm SW-040,b2b_software,Nairobi,599,600000.0,Yes,No,Registry list,USD
+LG-044,Fictional B2B logistics firm LG-044,logistics,Nairobi,531,,No,Yes,Outbound email,USD
+IB-021,Fictional Insurance brokers firm IB-021,insurance_brokers,Mombasa,1195,171000.0,Yes,Yes,Partner introduction,USD
+MF-035,Fictional Manufacturers with dealer networks firm MF-035,manufacturers,Nairobi,388,1381000.0,No,Yes,Founder network,USD
+SW-041,Fictional B2B software firm SW-041,b2b_software,Mombasa,201,,Yes,Yes,Outbound email,USD
+PY-033,Fictional Payments firm PY-033,payments,Machakos,1635,301000.0,Yes,No,Registry list,USD
+IB-022,Fictional Insurance brokers firm IB-022,insurance_brokers,Nairobi,202,96000.0,Yes,Yes,Referral,USD
+SW-042,Fictional B2B software firm SW-042,b2b_software,Kiambu,473,584000.0,Yes,Yes,Referral,USD
+PY-034,Fictional Payments firm PY-034,payments,Nairobi,1212,322000.0,,Yes,Event,USD
+SW-043,Fictional B2B software firm SW-043,b2b_software,Nakuru,271,268000.0,Yes,No,Outbound email,USD
+SW-044,Fictional B2B software firm SW-044,  B2B SOFTWARE ,Nakuru,288,345000.0,Yes,Yes,Founder network,USD
+LG-045,Fictional B2B logistics firm LG-045,  LOGISTICS ,Nakuru,784,1109000.0,Yes,Yes,Outbound email,USD
+TT-019,Fictional B2B travel-tech firm TT-019,travel_tech,Nairobi,432,185000.0,Yes,No,Registry list,USD
+LG-046,Fictional B2B logistics firm LG-046,logistics,Nairobi,753,1256000.0,Yes,No,Outbound email,USD
+TT-020,Fictional B2B travel-tech firm TT-020,travel_tech,Kisumu,1379,575000.0,No,Yes,Registry list,USD
+MF-036,Fictional Manufacturers with dealer networks firm MF-036,manufacturers,Nairobi,434,837000.0,No,No,Partner introduction,USD
+LG-047,Fictional B2B logistics firm LG-047,logistics,Nairobi,963,991000.0,Yes,Yes,Partner introduction,USD
+PY-035,Fictional Payments firm PY-035,payments,Other,1267,1010000.0,Yes,No,Founder network,USD
+IB-023,Fictional Insurance brokers firm IB-023,insurance_brokers,Mombasa,922,461000.0,Yes,Yes,Partner introduction,USD
+LG-048,Fictional B2B logistics firm LG-048,logistics,Kisumu,1345,1019000.0,Yes,Yes,Event,USD
+MF-037,Fictional Manufacturers with dealer networks firm MF-037,manufacturers,Nakuru,178,349000.0,Yes,No,Partner introduction,USD
+SW-045,Fictional B2B software firm SW-045,b2b_software,Kiambu,1222,884000.0,Yes,Yes,Partner introduction,USD
+SW-046,Fictional B2B software firm SW-046,b2b_software,Nakuru,58,60000.0,Yes,Yes,Founder network,USD
+DS-050,Fictional Distributors firm DS-050,distributors,Nairobi,804,49140000.0,No,No,Referral,KES
+TT-021,Fictional B2B travel-tech firm TT-021,travel_tech,Nairobi,937,1115000.0,Yes,Yes,Registry list,USD
+PY-036,Fictional Payments firm PY-036,payments,Nairobi,640,,Yes,Yes,Founder network,USD
+PY-037,Fictional Payments firm PY-037,payments,Nairobi,1326,751000.0,Yes,No,Event,USD
+MF-038,Fictional Manufacturers with dealer networks firm MF-038,manufacturers,Nakuru,1676,4232000.0,No,Yes,Partner introduction,USD
+SW-047,Fictional B2B software firm SW-047,b2b_software,Kiambu,207,288000.0,Yes,Yes,Founder network,USD
+LG-049,Fictional B2B logistics firm LG-049,logistics,Nakuru,100,173000.0,No,No,Partner introduction,USD
+MF-039,Fictional Manufacturers with dealer networks firm MF-039,manufacturers,Kisumu,887,4416000.0,Yes,No,Partner introduction,USD
+IB-024,Fictional Insurance brokers firm IB-024,insurance_brokers,Nairobi,822,158000.0,Yes,No,Referral,USD
+TT-022,Fictional B2B travel-tech firm TT-022,travel_tech,Machakos,1268,1414000.0,Yes,No,Partner introduction,USD
+MF-040,Fictional Manufacturers with dealer networks firm MF-040,manufacturers,Kiambu,282,1153000.0,No,Yes,Partner introduction,USD
+LG-050,Fictional B2B logistics firm LG-050,logistics,Nakuru,1573,7191000.0,No,Yes,Event,USD
+IB-025,Fictional Insurance brokers firm IB-025,insurance_brokers,Nairobi,1835,739000.0,No,No,Founder network,USD
+PY-038,Fictional Payments firm PY-038,payments,Nairobi,5159,2227000.0,Yes,Yes,Registry list,USD
+MF-041,Fictional Manufacturers with dealer networks firm MF-041,manufacturers,Nairobi,697,1231000.0,Yes,No,Referral,USD
+LG-051,Fictional B2B logistics firm LG-051,logistics,Kiambu,437,634000.0,No,Yes,Referral,USD
+SW-048,Fictional B2B software firm SW-048,b2b_software,Nairobi,0.9k,1450000.0,Yes,Yes,Partner introduction,USD
+LG-052,Fictional B2B logistics firm LG-052,logistics,Other,136,80000.0,No,Yes,Outbound email,USD
+DS-051,Fictional Distributors firm DS-051,distributors,Nairobi,828,587000.0,Yes,No,Partner introduction,USD
+SW-049,Fictional B2B software firm SW-049,b2b_software,Uasin Gishu,236,465000.0,Yes,Yes,Event,USD
+TT-023,Fictional B2B travel-tech firm TT-023,travel_tech,Nairobi,133,109000.0,No,Yes,Founder network,USD
+IB-026,Fictional Insurance brokers firm IB-026,insurance_brokers,Nairobi,2183,789000.0,Yes,Yes,Referral,USD
+IB-027,Fictional Insurance brokers firm IB-027,insurance_brokers,Nairobi,171,53000.0,Yes,Yes,Founder network,USD
+SW-050,Fictional B2B software firm SW-050,b2b_software,Machakos,107,313000.0,Yes,No,Event,USD
+SW-051,Fictional B2B software firm SW-051,b2b_software,Mombasa,992,306540000.0,Yes,Yes,Event,KES
+IB-028,Fictional Insurance brokers firm IB-028,insurance_brokers,Nairobi,77,6000.0,No,No,Referral,USD
+SW-052,Fictional B2B software firm SW-052,b2b_software,Kiambu,962,922000.0,Yes,No,Referral,USD
+DS-052,Fictional Distributors firm DS-052,distributors,Nairobi,754,404000.0,No,No,Event,USD
+SW-053,Fictional B2B software firm SW-053,  B2B SOFTWARE ,Kisumu,288,811000.0,Yes,No,Registry list,USD
+LG-053,Fictional B2B logistics firm LG-053,logistics,Nairobi,0.5k,1123000.0,Yes,No,Referral,USD
+MF-042,Fictional Manufacturers with dealer networks firm MF-042,manufacturers,Nairobi,388,1049000.0,Yes,Yes,Partner introduction,USD
+PY-039,Fictional Payments firm PY-039,payments,Nairobi,2938,4129000.0,Yes,Yes,Outbound email,USD
+MF-043,Fictional Manufacturers with dealer networks firm MF-043,manufacturers,Kiambu,287,574000.0,No,Yes,Outbound email,USD
+DS-053,Fictional Distributors firm DS-053,distributors,Machakos,3472,1587000.0,Yes,No,Event,USD
+IB-029,Fictional Insurance brokers firm IB-029,insurance_brokers,Mombasa,3582,1528000.0,Yes,No,Registry list,USD
+DS-054,Fictional Distributors firm DS-054,distributors,Mombasa,2690,1250000.0,No,No,Outbound email,USD
+DS-055,Fictional Distributors firm DS-055,distributors,Kiambu,349,211000.0,Yes,Yes,Outbound email,USD
+SW-054,Fictional B2B software firm SW-054,b2b_software,Mombasa,394,447000.0,Yes,Yes,Referral,USD
+MF-044,Fictional Manufacturers with dealer networks firm MF-044,manufacturers,Nairobi,432,1091000.0,No,Yes,Partner introduction,USD
+MF-045,Fictional Manufacturers with dealer networks firm MF-045,manufacturers,Nairobi,201,487000.0,Yes,No,Registry list,USD
+LG-054,Fictional B2B logistics firm LG-054,logistics,Kisumu,232,450000.0,Yes,Yes,Outbound email,USD
+TT-024,Fictional B2B travel-tech firm TT-024,travel_tech,Machakos,-722,751000.0,No,No,Registry list,USD
+DS-056,Fictional Distributors firm DS-056,distributors,Mombasa,818,531000.0,No,No,Founder network,USD
+IB-030,Fictional Insurance brokers firm IB-030,insurance_brokers,Nairobi,788,307000.0,No,Yes,Registry list,USD
+MF-046,Fictional Manufacturers with dealer networks firm MF-046,manufacturers,Nakuru,363,377000.0,Yes,No,Founder network,USD
+DS-057,Fictional Distributors firm DS-057,distributors,Kiambu,978,450000.0,No,No,Event,USD
+SW-055,Fictional B2B software firm SW-055,b2b_software,Nairobi,954,2689000.0,Yes,No,Event,USD
+SW-056,Fictional B2B software firm SW-056,b2b_software,Kisumu,4903,5258000.0,Yes,No,Founder network,USD
+SW-057,Fictional B2B software firm SW-057,b2b_software,Mombasa,2075,2558000.0,Yes,Yes,Founder network,USD
+SW-058,Fictional B2B software firm SW-058,b2b_software,Nairobi,103,150000.0,Yes,No,Event,USD
+DS-058,Fictional Distributors firm DS-058,distributors,Mombasa,958,1529000.0,No,Yes,Partner introduction,USD
+TT-025,Fictional B2B travel-tech firm TT-025,travel_tech,Other,834,831000.0,No,Yes,Registry list,USD
+SW-059,Fictional B2B software firm SW-059,  B2B SOFTWARE ,Nairobi,874,1379000.0,No,Yes,Registry list,USD
+LG-055,Fictional B2B logistics firm LG-055,logistics,Nairobi,995,226590000.0,Yes,No,Event,KES
+LG-056,Fictional B2B logistics firm LG-056,logistics,Mombasa,1063,4430000.0,Yes,No,Referral,USD
+SW-060,Fictional B2B software firm SW-060,b2b_software,Kiambu,1003,1262000.0,Yes,No,Founder network,USD
+PY-040,Fictional Payments firm PY-040,payments,Nairobi,1295,381000.0,No,Yes,Partner introduction,USD
+MF-047,Fictional Manufacturers with dealer networks firm MF-047,manufacturers,Nakuru,337,866000.0,Yes,No,Founder network,USD
+SW-061,Fictional B2B software firm SW-061,b2b_software,Nairobi,624,1296000.0,Yes,Yes,Event,USD
+MF-048,Fictional Manufacturers with dealer networks firm MF-048,manufacturers,Kiambu,643,2739000.0,Yes,Yes,Partner introduction,USD
+DS-059,Fictional Distributors firm DS-059,distributors,Nairobi,344,,Yes,No,Event,USD
+TT-026,Fictional B2B travel-tech firm TT-026,travel_tech,Nairobi,319,167000.0,Yes,Yes,Outbound email,USD
+DS-060,Fictional Distributors firm DS-060,distributors,Kiambu,7219,3863000.0,Yes,No,Registry list,USD
+SW-062,Fictional B2B software firm SW-062,b2b_software,Nairobi,82,172000.0,Yes,No,Registry list,USD
+SW-063,Fictional B2B software firm SW-063,b2b_software,Nakuru,1036,1178000.0,Yes,No,Registry list,USD
+IB-031,Fictional Insurance brokers firm IB-031,insurance_brokers,Nairobi,1113,454000.0,Yes,Yes,Founder network,USD
+DS-061,Fictional Distributors firm DS-061,distributors,Machakos,1220,736000.0,No,No,Founder network,USD
+TT-027,Fictional B2B travel-tech firm TT-027,travel_tech,Nairobi,683,615000.0,Yes,Yes,Referral,USD
+MF-049,Fictional Manufacturers with dealer networks firm MF-049,manufacturers,Other,421,1683000.0,No,No,Founder network,USD
+DS-062,Fictional Distributors firm DS-062,distributors,Nakuru,303,329000.0,No,Yes,Outbound email,USD
+IB-032,Fictional Insurance brokers firm IB-032,insurance_brokers,Nairobi,6709,4453000.0,No,Yes,Outbound email,USD
+SW-064,Fictional B2B software firm SW-064,b2b_software,Uasin Gishu,221,360000.0,Yes,Yes,Outbound email,USD
+PY-041,Fictional Payments firm PY-041,payments,Machakos,2068,798000.0,Yes,No,Partner introduction,USD
+TT-028,Fictional B2B travel-tech firm TT-028,travel_tech,Nairobi,2296,3285000.0,Yes,No,Registry list,USD
+PY-042,Fictional Payments firm PY-042,payments,Nakuru,1698,1254000.0,Yes,Yes,Partner introduction,USD
+PY-043,Fictional Payments firm PY-043,payments,Other,2335,705000.0,Yes,Yes,Outbound email,USD
+SW-065,Fictional B2B software firm SW-065,b2b_software,Nakuru,1160,453000.0,Yes,Yes,Partner introduction,USD
+DS-063,Fictional Distributors firm DS-063,distributors,Mombasa,1338,653000.0,,No,Founder network,USD
+DS-064,Fictional Distributors firm DS-064,distributors,Nakuru,173,8970000.0,No,Yes,Partner introduction,KES
+SW-066,Fictional B2B software firm SW-066,b2b_software,Nairobi,3187,,Yes,No,Event,USD
+PY-044,Fictional Payments firm PY-044,payments,Mombasa,554,121000.0,Yes,Yes,Registry list,USD
+DS-065,Fictional Distributors firm DS-065,distributors,Nakuru,1378,613000.0,No,No,Outbound email,USD
+PY-045,Fictional Payments firm PY-045,payments,Other,1896,970000.0,Yes,Yes,Partner introduction,USD
+LG-057,Fictional B2B logistics firm LG-057,logistics,Kiambu,867,4055000.0,Yes,Yes,Outbound email,USD
+IB-033,Fictional Insurance brokers firm IB-033,insurance_brokers,Nairobi,5477,1495000.0,Yes,Yes,Partner introduction,USD
+TT-029,Fictional B2B travel-tech firm TT-029,travel_tech,Nairobi,726,601000.0,Yes,No,Referral,USD
+LG-058,Fictional B2B logistics firm LG-058,logistics,Mombasa,955,,Yes,Yes,Referral,USD
+PY-046,Fictional Payments firm PY-046,payments,Nairobi,1589,782000.0,,Yes,Founder network,USD
+DS-066,Fictional Distributors firm DS-066,distributors,Nairobi,683,1019000.0,,No,Referral,USD
+LG-059,Fictional B2B logistics firm LG-059,logistics,Nairobi,179,366000.0,No,Yes,Registry list,USD
+SW-067,Fictional B2B software firm SW-067,b2b_software,Nairobi,1224,1387000.0,,Yes,Event,USD
+SW-068,Fictional B2B software firm SW-068,b2b_software,Nairobi,941,591000.0,Yes,Yes,Partner introduction,USD
+PY-047,Fictional Payments firm PY-047,payments,Kisumu,811,237000.0,Yes,Yes,Outbound email,USD
+PY-048,Fictional Payments firm PY-048,payments,Nairobi,5831,274950000.0,Yes,No,Founder network,KES
+SW-069,Fictional B2B software firm SW-069,b2b_software,Nairobi,935,1091000.0,Yes,Yes,Partner introduction,USD
+DS-067,Fictional Distributors firm DS-067,distributors,Kiambu,1912,1714000.0,No,Yes,Registry list,USD
+IB-034,Fictional Insurance brokers firm IB-034,insurance_brokers,Nairobi,299,79000.0,No,No,Partner introduction,USD
+SW-070,Fictional B2B software firm SW-070,b2b_software,Nairobi,438,1039000.0,Yes,Yes,Registry list,USD
+PY-049,Fictional Payments firm PY-049,payments,Uasin Gishu,832,900000.0,Yes,No,Partner introduction,USD
+SW-071,Fictional B2B software firm SW-071,b2b_software,Nakuru,1363,2156000.0,Yes,Yes,Partner introduction,USD
+IB-035,Fictional Insurance brokers firm IB-035,insurance_brokers,Nairobi,6232,2551000.0,No,Yes,Referral,USD
+TT-030,Fictional B2B travel-tech firm TT-030,travel_tech,Kiambu,783,397000.0,No,No,Registry list,USD
+PY-050,Fictional Payments firm PY-050,payments,Nairobi,765,222000.0,Yes,Yes,Event,USD
+DS-068,Fictional Distributors firm DS-068,distributors,Nairobi,353,87000.0,No,No,Referral,USD
+DS-069,Fictional Distributors firm DS-069,  DISTRIBUTORS ,Nakuru,1712,2047000.0,No,No,Partner introduction,USD
+LG-060,Fictional B2B logistics firm LG-060,logistics,Nakuru,965,2728000.0,No,Yes,Registry list,USD
+SW-072,Fictional B2B software firm SW-072,b2b_software,Nairobi,848,385000.0,Yes,No,Outbound email,USD
+MF-050,Fictional Manufacturers with dealer networks firm MF-050,manufacturers,Machakos,864,2642000.0,Yes,Yes,Event,USD
+LG-061,Fictional B2B logistics firm LG-061,  LOGISTICS ,Uasin Gishu,1585,2769000.0,Yes,Yes,Referral,USD
+SW-073,Fictional B2B software firm SW-073,b2b_software,Mombasa,458,326000.0,Yes,No,Referral,USD
+SW-074,Fictional B2B software firm SW-074,b2b_software,Nairobi,910,656000.0,Yes,No,Founder network,USD
+MF-051,Fictional Manufacturers with dealer networks firm MF-051,  MANUFACTURERS ,Kiambu,707,1051000.0,Yes,No,Registry list,USD
+SW-075,Fictional B2B software firm SW-075,b2b_software,Kiambu,991,2072000.0,Yes,No,Registry list,USD
+TT-031,Fictional B2B travel-tech firm TT-031,travel_tech,Kiambu,650,411000.0,,Yes,Partner introduction,USD
+IB-036,Fictional Insurance brokers firm IB-036,insurance_brokers,Mombasa,895,504000.0,Yes,Yes,Referral,USD
+DS-070,Fictional Distributors firm DS-070,distributors,Nairobi,159,122000.0,No,Yes,Registry list,USD
+MF-052,Fictional Manufacturers with dealer networks firm MF-052,manufacturers,Nairobi,157,578000.0,No,Yes,Referral,USD
+TT-032,Fictional B2B travel-tech firm TT-032,travel_tech,Kiambu,657,378000.0,Yes,Yes,Event,USD
+DS-071,Fictional Distributors firm DS-071,distributors,Mombasa,2.2k,1008000.0,No,Yes,Registry list,USD
+LG-062,Fictional B2B logistics firm LG-062,logistics,Nairobi,1071,271050000.0,Yes,Yes,Outbound email,KES
+IB-037,Fictional Insurance brokers firm IB-037,  INSURANCE BROKERS ,Nakuru,1451,313000.0,No,Yes,Registry list,USD
+LG-063,Fictional B2B logistics firm LG-063,logistics,Machakos,383,886000.0,,Yes,Registry list,USD
+SW-076,Fictional B2B software firm SW-076,b2b_software,Uasin Gishu,406,147000.0,Yes,Yes,Founder network,USD
+LG-064,Fictional B2B logistics firm LG-064,logistics,Kiambu,581,854000.0,Yes,Yes,Partner introduction,USD
+PY-051,Fictional Payments firm PY-051,payments,Nairobi,512,295000.0,Yes,Yes,Referral,USD
+DS-072,Fictional Distributors firm DS-072,distributors,Machakos,425,169000.0,,Yes,Referral,USD
+MF-053,Fictional Manufacturers with dealer networks firm MF-053,manufacturers,Kiambu,200,422000.0,Yes,Yes,Partner introduction,USD
+DS-073,Fictional Distributors firm DS-073,distributors,Nairobi,955,465000.0,No,Yes,Registry list,USD
+MF-054,Fictional Manufacturers with dealer networks firm MF-054,manufacturers,Kiambu,296,863000.0,Yes,No,Partner introduction,USD
+SW-077,Fictional B2B software firm SW-077,b2b_software,Nairobi,228,194000.0,Yes,No,Outbound email,USD
+PY-052,Fictional Payments firm PY-052,payments,Kisumu,946,351000.0,Yes,Yes,Outbound email,USD
+TT-033,Fictional B2B travel-tech firm TT-033,travel_tech,Nairobi,548,416000.0,Yes,No,Registry list,USD
+PY-053,Fictional Payments firm PY-053,payments,Mombasa,4477,2824000.0,Yes,No,Founder network,USD
+MF-055,Fictional Manufacturers with dealer networks firm MF-055,manufacturers,Machakos,421,,Yes,Yes,Event,USD
+SW-078,Fictional B2B software firm SW-078,b2b_software,Nairobi,275,149000.0,Yes,Yes,Event,USD
+DS-074,Fictional Distributors firm DS-074,distributors,Uasin Gishu,5691,4153000.0,Yes,Yes,Partner introduction,USD
+SW-079,Fictional B2B software firm SW-079,b2b_software,Nairobi,554,476000.0,Yes,Yes,Founder network,USD
+LG-065,Fictional B2B logistics firm LG-065,logistics,Nairobi,2423,6800000.0,Yes,Yes,Referral,USD
+MF-056,Fictional Manufacturers with dealer networks firm MF-056,manufacturers,Nairobi,391,765000.0,No,No,Registry list,USD
+SW-080,Fictional B2B software firm SW-080,b2b_software,Mombasa,564,706000.0,Yes,No,Founder network,USD
+SW-081,Fictional B2B software firm SW-081,b2b_software,Nairobi,631,632000.0,Yes,No,Partner introduction,USD
+SW-082,Fictional B2B software firm SW-082,  B2B SOFTWARE ,Mombasa,1509,1621000.0,Yes,No,Registry list,USD
+LG-066,Fictional B2B logistics firm LG-066,logistics,Nairobi,470,682000.0,Yes,Yes,Partner introduction,USD
+MF-057,Fictional Manufacturers with dealer networks firm MF-057,manufacturers,Nairobi,260,634000.0,Yes,No,Referral,USD
+PY-054,Fictional Payments firm PY-054,payments,Nairobi,1246,413000.0,Yes,No,Founder network,USD
+PY-055,Fictional Payments firm PY-055,payments,Nairobi,2145,534000.0,Yes,Yes,Outbound email,USD
+DS-075,Fictional Distributors firm DS-075,distributors,Kisumu,1302,478000.0,Yes,Yes,Referral,USD
+IB-038,Fictional Insurance brokers firm IB-038,insurance_brokers,Nairobi,384,222000.0,Yes,Yes,Event,USD
+PY-056,Fictional Payments firm PY-056,payments,Nairobi,1118,376000.0,Yes,Yes,Partner introduction,USD
+IB-039,Fictional Insurance brokers firm IB-039,insurance_brokers,Nairobi,1616,274000.0,No,Yes,Registry list,USD
+MF-058,Fictional Manufacturers with dealer networks firm MF-058,manufacturers,Nairobi,413,483000.0,Yes,No,Registry list,USD
+IB-040,Fictional Insurance brokers firm IB-040,insurance_brokers,Nairobi,2120,626000.0,No,No,Referral,USD
+DS-076,Fictional Distributors firm DS-076,distributors,Machakos,735,230000.0,No,Yes,Partner introduction,USD
+PY-057,Fictional Payments firm PY-057,payments,Nairobi,4747,1948000.0,Yes,Yes,Event,USD
+PY-058,Fictional Payments firm PY-058,payments,Nairobi,1204,666000.0,Yes,No,Referral,USD
+MF-059,Fictional Manufacturers with dealer networks firm MF-059,manufacturers,Kisumu,682,2116000.0,Yes,Yes,Referral,USD
+LG-067,Fictional B2B logistics firm LG-067,logistics,Nairobi,478,473000.0,Yes,Yes,Referral,USD
+SW-083,Fictional B2B software firm SW-083,b2b_software,Mombasa,560,2541000.0,Yes,Yes,Event,USD
+MF-060,Fictional Manufacturers with dealer networks firm MF-060,manufacturers,Nakuru,255,,No,Yes,Outbound email,USD
+MF-061,Fictional Manufacturers with dealer networks firm MF-061,manufacturers,Mombasa,378,150410000.0,No,No,Event,KES
+MF-062,Fictional Manufacturers with dealer networks firm MF-062,manufacturers,Mombasa,87,758000.0,Yes,Yes,Event,USD
+LG-068,Fictional B2B logistics firm LG-068,  LOGISTICS ,Nairobi,1122,3085000.0,Yes,Yes,Registry list,USD
+PY-059,Fictional Payments firm PY-059,payments,Mombasa,568,273000.0,Yes,Yes,Outbound email,USD
+LG-069,Fictional B2B logistics firm LG-069,logistics,Mombasa,264,1227000.0,Yes,Yes,Outbound email,USD
+MF-063,Fictional Manufacturers with dealer networks firm MF-063,manufacturers,Nairobi,171,561000.0,Yes,Yes,Outbound email,USD
+TT-034,Fictional B2B travel-tech firm TT-034,travel_tech,Kisumu,286,106000.0,Yes,No,Founder network,USD
+LG-070,Fictional B2B logistics firm LG-070,logistics,Nairobi,209,341000.0,Yes,Yes,Registry list,USD
+LG-071,Fictional B2B logistics firm LG-071,logistics,Machakos,239,203000.0,No,Yes,Referral,USD
+LG-072,Fictional B2B logistics firm LG-072,logistics,Uasin Gishu,389,493000.0,No,No,Event,USD
+DS-077,Fictional Distributors firm DS-077,distributors,Mombasa,0.8k,489000.0,No,No,Referral,USD
+DS-078,Fictional Distributors firm DS-078,distributors,Nairobi,1612,910000.0,Yes,Yes,Referral,USD
+PY-060,Fictional Payments firm PY-060,payments,Machakos,1802,147550000.0,Yes,Yes,Partner introduction,KES
+SW-084,Fictional B2B software firm SW-084,b2b_software,Kiambu,374,376000.0,Yes,Yes,Referral,USD
+PY-061,Fictional Payments firm PY-061,payments,Nairobi,2977,1334000.0,Yes,Yes,Outbound email,USD
+DS-079,Fictional Distributors firm DS-079,distributors,Machakos,879,794000.0,No,No,Partner introduction,USD
+DS-080,Fictional Distributors firm DS-080,distributors,Kiambu,1244,578000.0,Yes,Yes,Founder network,USD
+SW-085,Fictional B2B software firm SW-085,b2b_software,Nakuru,348,519000.0,Yes,No,Partner introduction,USD
+LG-073,Fictional B2B logistics firm LG-073,logistics,Other,142,157000.0,No,No,Founder network,USD
+LG-074,Fictional B2B logistics firm LG-074,logistics,Nairobi,303,407000.0,Yes,Yes,Referral,USD
+DS-081,Fictional Distributors firm DS-081,distributors,Nairobi,244,120000.0,No,Yes,Registry list,USD
+SW-086,Fictional B2B software firm SW-086,b2b_software,Nairobi,349,423000.0,Yes,Yes,Partner introduction,USD
+DS-082,Fictional Distributors firm DS-082,distributors,Nairobi,227,150000.0,,Yes,Outbound email,USD
+SW-087,Fictional B2B software firm SW-087,b2b_software,Nairobi,219,111000.0,Yes,No,Outbound email,USD
+TT-035,Fictional B2B travel-tech firm TT-035,travel_tech,Mombasa,219,272000.0,,Yes,Partner introduction,USD
+DS-083,Fictional Distributors firm DS-083,  DISTRIBUTORS ,Nairobi,1086,567000.0,Yes,No,Partner introduction,USD
+DS-084,Fictional Distributors firm DS-084,distributors,Mombasa,543,571000.0,Yes,Yes,Founder network,USD
+SW-088,Fictional B2B software firm SW-088,b2b_software,Kiambu,349,151970000.0,Yes,Yes,Registry list,KES
+LG-075,Fictional B2B logistics firm LG-075,logistics,Kiambu,566,874000.0,Yes,No,Event,USD
+TT-036,Fictional B2B travel-tech firm TT-036,travel_tech,Nairobi,265,120000.0,Yes,Yes,Partner introduction,USD
+LG-076,Fictional B2B logistics firm LG-076,logistics,Nairobi,511,368000.0,Yes,No,Outbound email,USD
+DS-085,Fictional Distributors firm DS-085,distributors,Nairobi,12674,4183000.0,Yes,Yes,Founder network,USD
+DS-086,Fictional Distributors firm DS-086,distributors,Nairobi,1372,924000.0,Yes,Yes,Founder network,USD
+MF-064,Fictional Manufacturers with dealer networks firm MF-064,manufacturers,Nairobi,921,,Yes,Yes,Referral,USD
+SW-089,Fictional B2B software firm SW-089,b2b_software,Machakos,745,288000.0,Yes,Yes,Registry list,USD
+DS-087,Fictional Distributors firm DS-087,distributors,Nairobi,209,38000.0,No,Yes,Event,USD
+MF-065,Fictional Manufacturers with dealer networks firm MF-065,manufacturers,Nairobi,683,2800000.0,,Yes,Partner introduction,USD
+SW-090,Fictional B2B software firm SW-090,b2b_software,Nairobi,325,445000.0,Yes,Yes,Registry list,USD
+MF-066,Fictional Manufacturers with dealer networks firm MF-066,manufacturers,Kiambu,491,1391000.0,No,Yes,Event,USD
+PY-062,Fictional Payments firm PY-062,payments,Nairobi,1219,482000.0,Yes,Yes,Partner introduction,USD
+DS-088,Fictional Distributors firm DS-088,distributors,Nairobi,542,312000.0,No,No,Founder network,USD
+SW-091,Fictional B2B software firm SW-091,b2b_software,Kisumu,193,147000.0,Yes,Yes,Founder network,USD
+DS-089,Fictional Distributors firm DS-089,distributors,Nakuru,1332,2526000.0,No,Yes,Referral,USD
+MF-067,Fictional Manufacturers with dealer networks firm MF-067,manufacturers,Machakos,2458,9738000.0,No,Yes,Registry list,USD
+IB-041,Fictional Insurance brokers firm IB-041,insurance_brokers,Mombasa,1311,591000.0,Yes,Yes,Outbound email,USD
+SW-092,Fictional B2B software firm SW-092,b2b_software,Nakuru,749,1526000.0,Yes,No,Referral,USD
+DS-090,Fictional Distributors firm DS-090,distributors,Nairobi,1269,1269000.0,Yes,Yes,Partner introduction,USD
+PY-063,Fictional Payments firm PY-063,  PAYMENTS ,Mombasa,11066,2903000.0,,Yes,Outbound email,USD
+MF-068,Fictional Manufacturers with dealer networks firm MF-068,manufacturers,Mombasa,1530,4495000.0,Yes,Yes,Outbound email,USD
+DS-091,Fictional Distributors firm DS-091,distributors,Nairobi,395,760000.0,No,Yes,Outbound email,USD
+LG-077,Fictional B2B logistics firm LG-077,logistics,Other,282,144000.0,No,Yes,Founder network,USD
+PY-064,Fictional Payments firm PY-064,payments,Other,2140,938000.0,Yes,No,Referral,USD
+TT-037,Fictional B2B travel-tech firm TT-037,travel_tech,Mombasa,589,430000.0,No,Yes,Event,USD
+SW-093,Fictional B2B software firm SW-093,b2b_software,Mombasa,335,663000.0,No,Yes,Partner introduction,USD
+TT-038,Fictional B2B travel-tech firm TT-038,travel_tech,Nairobi,470,1026000.0,Yes,No,Outbound email,USD
+PY-065,Fictional Payments firm PY-065,payments,Kiambu,10177,3305000.0,Yes,Yes,Event,USD
+TT-039,Fictional B2B travel-tech firm TT-039,travel_tech,Nairobi,1905,2895000.0,No,No,Registry list,USD
+PY-066,Fictional Payments firm PY-066,payments,Machakos,1752,266000.0,Yes,Yes,Founder network,USD
+LG-078,Fictional B2B logistics firm LG-078,logistics,Nakuru,2392,3321000.0,Yes,No,Founder network,USD
+IB-042,Fictional Insurance brokers firm IB-042,insurance_brokers,Mombasa,3381,687000.0,Yes,Yes,Founder network,USD
+SW-094,Fictional B2B software firm SW-094,b2b_software,Nairobi,373,431000.0,Yes,No,Outbound email,USD
+MF-069,Fictional Manufacturers with dealer networks firm MF-069,manufacturers,Nairobi,542,2103000.0,Yes,No,Event,USD
+DS-092,Fictional Distributors firm DS-092,distributors,Kisumu,1805,,Yes,Yes,Registry list,USD
+SW-095,Fictional B2B software firm SW-095,b2b_software,Uasin Gishu,597,488000.0,Yes,Yes,Event,USD
+TT-040,Fictional B2B travel-tech firm TT-040,travel_tech,Nairobi,219,31850000.0,Yes,Yes,Referral,KES
+DS-093,Fictional Distributors firm DS-093,distributors,Nairobi,352,283000.0,No,Yes,Outbound email,USD
+IB-043,Fictional Insurance brokers firm IB-043,insurance_brokers,Nairobi,5893,1602000.0,No,Yes,Outbound email,USD
+DS-094,Fictional Distributors firm DS-094,  DISTRIBUTORS ,Machakos,439,326000.0,No,Yes,Registry list,USD
+SW-096,Fictional B2B software firm SW-096,b2b_software,Nairobi,437,322000.0,Yes,No,Registry list,USD
+TT-041,Fictional B2B travel-tech firm TT-041,  TRAVEL TECH ,Other,729,1130000.0,Yes,Yes,Registry list,USD
+SW-097,Fictional B2B software firm SW-097,b2b_software,Nairobi,454,816000.0,Yes,Yes,Event,USD
+LG-079,Fictional B2B logistics firm LG-079,logistics,Machakos,292,,No,Yes,Event,USD
+DS-095,Fictional Distributors firm DS-095,distributors,Nairobi,518,219000.0,No,Yes,Event,USD
+IB-044,Fictional Insurance brokers firm IB-044,insurance_brokers,Nairobi,317,133000.0,Yes,No,Event,USD
+PY-067,Fictional Payments firm PY-067,payments,Nairobi,1282,553000.0,Yes,Yes,Founder network,USD
+LG-080,Fictional B2B logistics firm LG-080,logistics,Nakuru,943,,,Yes,Partner introduction,USD
+LG-081,Fictional B2B logistics firm LG-081,logistics,Nairobi,329,665000.0,Yes,No,Event,USD
+MF-070,Fictional Manufacturers with dealer networks firm MF-070,manufacturers,Mombasa,324,2302000.0,No,Yes,Outbound email,USD
+SW-098,Fictional B2B software firm SW-098,b2b_software,Other,3235,5432000.0,Yes,Yes,Outbound email,USD
+PY-068,Fictional Payments firm PY-068,payments,Mombasa,1630,606000.0,No,Yes,Founder network,USD
+LG-082,Fictional B2B logistics firm LG-082,logistics,Nairobi,165,468000.0,No,Yes,Outbound email,USD
+LG-083,Fictional B2B logistics firm LG-083,logistics,Nairobi,1071,996000.0,Yes,No,Referral,USD
+DS-096,Fictional Distributors firm DS-096,distributors,Nairobi,111,68000.0,No,No,Event,USD
+MF-071,Fictional Manufacturers with dealer networks firm MF-071,manufacturers,Nairobi,608,1227000.0,No,No,Partner introduction,USD
+PY-069,Fictional Payments firm PY-069,payments,Nairobi,9335,3040000.0,Yes,Yes,Partner introduction,USD
+SW-099,Fictional B2B software firm SW-099,b2b_software,Nairobi,201,,Yes,No,Outbound email,USD
+IB-045,Fictional Insurance brokers firm IB-045,insurance_brokers,Kiambu,1061,387000.0,Yes,Yes,Event,USD
+MF-072,Fictional Manufacturers with dealer networks firm MF-072,manufacturers,Nairobi,117,414000.0,Yes,Yes,Referral,USD
+PY-070,Fictional Payments firm PY-070,payments,Kiambu,7792,2746000.0,Yes,Yes,Referral,USD
+LG-084,Fictional B2B logistics firm LG-084,logistics,Nairobi,319,1207000.0,No,Yes,Outbound email,USD
+DS-097,Fictional Distributors firm DS-097,distributors,Machakos,474,326000.0,Yes,Yes,Referral,USD
+MF-073,Fictional Manufacturers with dealer networks firm MF-073,manufacturers,Kisumu,106,202000.0,No,Yes,Outbound email,USD
+SW-100,Fictional B2B software firm SW-100,b2b_software,Nairobi,181,120000.0,Yes,Yes,Outbound email,USD
+DS-098,Fictional Distributors firm DS-098,distributors,Machakos,1146,447000.0,No,Yes,Founder network,USD
+PY-071,Fictional Payments firm PY-071,payments,Mombasa,2491,647000.0,Yes,No,Outbound email,USD
+TT-042,Fictional B2B travel-tech firm TT-042,travel_tech,Nairobi,773,595000.0,Yes,Yes,Event,USD
+DS-099,Fictional Distributors firm DS-099,distributors,Nairobi,206,104000.0,Yes,No,Founder network,USD
+MF-074,Fictional Manufacturers with dealer networks firm MF-074,manufacturers,Nairobi,232,340000.0,,No,Partner introduction,USD
+LG-085,Fictional B2B logistics firm LG-085,logistics,Mombasa,218,167000.0,No,No,Event,USD
+DS-100,Fictional Distributors firm DS-100,distributors,Uasin Gishu,1545,1646000.0,No,Yes,Referral,USD
+LG-086,Fictional B2B logistics firm LG-086,logistics,Uasin Gishu,151,546000.0,Yes,No,Partner introduction,USD
+MF-075,Fictional Manufacturers with dealer networks firm MF-075,manufacturers,Nairobi,914,1635000.0,No,No,Registry list,USD
+MF-076,Fictional Manufacturers with dealer networks firm MF-076,manufacturers,Uasin Gishu,215,396000.0,Yes,No,Event,USD
+LG-087,Fictional B2B logistics firm LG-087,logistics,Other,2814,7246000.0,Yes,Yes,Event,USD
+LG-088,Fictional B2B logistics firm LG-088,logistics,Mombasa,0.2k,186000.0,Yes,No,Partner introduction,USD
+SW-101,Fictional B2B software firm SW-101,b2b_software,Nakuru,68,,Yes,No,Registry list,USD
+DS-101,Fictional Distributors firm DS-101,distributors,Nakuru,636,384000.0,No,No,Partner introduction,USD
+LG-089,Fictional B2B logistics firm LG-089,logistics,Kisumu,1958,1766000.0,Yes,Yes,Event,USD
+SW-102,Fictional B2B software firm SW-102,b2b_software,Nairobi,570,501000.0,Yes,No,Founder network,USD
+LG-090,Fictional B2B logistics firm LG-090,logistics,Kiambu,1324,3039000.0,Yes,Yes,Partner introduction,USD
+LG-091,Fictional B2B logistics firm LG-091,logistics,Nairobi,835,1347000.0,Yes,Yes,Registry list,USD
+TT-043,Fictional B2B travel-tech firm TT-043,travel_tech,Nairobi,845,1038000.0,Yes,Yes,Partner introduction,USD
+DS-102,Fictional Distributors firm DS-102,distributors,Mombasa,1053,303000.0,No,Yes,Founder network,USD
+TT-044,Fictional B2B travel-tech firm TT-044,travel_tech,Machakos,1555,2593000.0,No,Yes,Registry list,USD
+MF-077,Fictional Manufacturers with dealer networks firm MF-077,manufacturers,Uasin Gishu,976,878000.0,No,No,Outbound email,USD
+DS-103,Fictional Distributors firm DS-103,distributors,Kiambu,293,129000.0,No,Yes,Event,USD
+LG-092,Fictional B2B logistics firm LG-092,logistics,Nairobi,374,1279000.0,Yes,Yes,Partner introduction,USD
+LG-093,Fictional B2B logistics firm LG-093,logistics,Nairobi,309,332000.0,Yes,Yes,Registry list,USD
+SW-103,Fictional B2B software firm SW-103,b2b_software,Uasin Gishu,677,469000.0,Yes,No,Partner introduction,USD
+LG-094,Fictional B2B logistics firm LG-094,logistics,Nakuru,358,,Yes,Yes,Partner introduction,USD
+PY-072,Fictional Payments firm PY-072,payments,Nairobi,1267,379000.0,No,No,Founder network,USD
+TT-045,Fictional B2B travel-tech firm TT-045,travel_tech,Nairobi,1359,1919000.0,Yes,Yes,Referral,USD
+LG-095,Fictional B2B logistics firm LG-095,logistics,Nairobi,368,310000.0,Yes,Yes,Outbound email,USD
+SW-104,Fictional B2B software firm SW-104,b2b_software,Nairobi,476,281000.0,Yes,No,Partner introduction,USD
+DS-104,Fictional Distributors firm DS-104,distributors,Nairobi,432,333000.0,Yes,No,Event,USD
+TT-046,Fictional B2B travel-tech firm TT-046,travel_tech,Kisumu,872,1073000.0,Yes,No,Outbound email,USD
+PY-073,Fictional Payments firm PY-073,payments,Nairobi,354,254000.0,Yes,No,Registry list,USD
+IB-046,Fictional Insurance brokers firm IB-046,insurance_brokers,Nairobi,292,147000.0,No,No,Founder network,USD
+IB-047,Fictional Insurance brokers firm IB-047,insurance_brokers,Other,614,70000.0,Yes,Yes,Referral,USD
+IB-048,Fictional Insurance brokers firm IB-048,insurance_brokers,Machakos,2556,,Yes,No,Outbound email,USD
+SW-105,Fictional B2B software firm SW-105,b2b_software,Kiambu,647,378000.0,Yes,Yes,Partner introduction,USD
+DS-105,Fictional Distributors firm DS-105,distributors,Other,2048,1095000.0,No,Yes,Registry list,USD
+SW-106,Fictional B2B software firm SW-106,b2b_software,Nairobi,760,1193000.0,No,No,Event,USD
+SW-107,Fictional B2B software firm SW-107,b2b_software,Nairobi,2254,1609000.0,Yes,Yes,Founder network,USD
+MF-078,Fictional Manufacturers with dealer networks firm MF-078,manufacturers,Nairobi,80,145000.0,No,No,Registry list,USD
+LG-096,Fictional B2B logistics firm LG-096,logistics,Nairobi,1645,2285000.0,Yes,No,Referral,USD
+PY-074,Fictional Payments firm PY-074,payments,Nairobi,1383,400000.0,Yes,Yes,Registry list,USD
+DS-106,Fictional Distributors firm DS-106,distributors,Nairobi,132,55000.0,Yes,No,Registry list,USD
+MF-079,Fictional Manufacturers with dealer networks firm MF-079,manufacturers,Machakos,278,559000.0,Yes,Yes,Event,USD
+MF-080,Fictional Manufacturers with dealer networks firm MF-080,manufacturers,Kiambu,523,798000.0,No,Yes,Event,USD
+SW-108,Fictional B2B software firm SW-108,b2b_software,Other,73,35000.0,Yes,Yes,Founder network,USD
+SW-109,Fictional B2B software firm SW-109,b2b_software,Nairobi,375,1639000.0,Yes,No,Partner introduction,USD
+MF-081,Fictional Manufacturers with dealer networks firm MF-081,manufacturers,Mombasa,100,447000.0,Yes,Yes,Founder network,USD
+LG-097,Fictional B2B logistics firm LG-097,logistics,Machakos,1431,3705000.0,No,No,Referral,USD
+SW-110,Fictional B2B software firm SW-110,b2b_software,Other,2393,5540000.0,Yes,Yes,Referral,USD
+DS-107,Fictional Distributors firm DS-107,distributors,Nairobi,1482,1017000.0,No,Yes,Referral,USD
+PY-075,Fictional Payments firm PY-075,payments,Uasin Gishu,98,38000.0,Yes,No,Founder network,USD
+DS-108,Fictional Distributors firm DS-108,distributors,Nairobi,1378,389000.0,Yes,No,Referral,USD
+TT-047,Fictional B2B travel-tech firm TT-047,travel_tech,Mombasa,473,294000.0,Yes,Yes,Registry list,USD
+TT-048,Fictional B2B travel-tech firm TT-048,travel_tech,Kisumu,406,333000.0,Yes,No,Registry list,USD
+IB-049,Fictional Insurance brokers firm IB-049,insurance_brokers,Kiambu,4034,4833000.0,No,Yes,Outbound email,USD
+TT-049,Fictional B2B travel-tech firm TT-049,travel_tech,Mombasa,934,1119000.0,Yes,Yes,Referral,USD
+MF-082,Fictional Manufacturers with dealer networks firm MF-082,manufacturers,Nairobi,107,389000.0,Yes,Yes,Referral,USD
+SW-111,Fictional B2B software firm SW-111,b2b_software,Nairobi,691,767000.0,,No,Founder network,USD
+MF-083,Fictional Manufacturers with dealer networks firm MF-083,manufacturers,Nairobi,131,98000.0,Yes,Yes,Founder network,USD
+LG-098,Fictional B2B logistics firm LG-098,logistics,Nairobi,451,1038000.0,Yes,No,Referral,USD
+MF-084,Fictional Manufacturers with dealer networks firm MF-084,manufacturers,Nairobi,73,136000.0,Yes,Yes,Partner introduction,USD
+PY-076,Fictional Payments firm PY-076,payments,Nairobi,1662,681000.0,Yes,No,Partner introduction,USD
+LG-099,Fictional B2B logistics firm LG-099,logistics,Nairobi,890,1671000.0,Yes,No,Outbound email,USD
+SW-112,Fictional B2B software firm SW-112,b2b_software,Machakos,900,1417000.0,No,Yes,Event,USD
+MF-085,Fictional Manufacturers with dealer networks firm MF-085,manufacturers,Nairobi,724,1145000.0,No,Yes,Outbound email,USD
+PY-077,Fictional Payments firm PY-077,  PAYMENTS ,Nairobi,25874,9757000.0,No,Yes,Registry list,USD
+LG-100,Fictional B2B logistics firm LG-100,logistics,Nakuru,300,530000.0,Yes,No,Event,USD
+IB-050,Fictional Insurance brokers firm IB-050,insurance_brokers,Nairobi,1951,976000.0,Yes,No,Referral,USD
+DS-109,Fictional Distributors firm DS-109,distributors,Nairobi,3150,1470000.0,No,No,Event,USD
+LG-101,Fictional B2B logistics firm LG-101,logistics,Nairobi,1005,,No,Yes,Event,USD
+DS-110,Fictional Distributors firm DS-110,distributors,Nakuru,-1012,405000.0,No,No,Outbound email,USD
+PY-078,Fictional Payments firm PY-078,payments,Nairobi,1081,244000.0,Yes,No,Founder network,USD
+IB-051,Fictional Insurance brokers firm IB-051,insurance_brokers,Nairobi,816,108000.0,Yes,Yes,Partner introduction,USD
+DS-111,Fictional Distributors firm DS-111,distributors,Uasin Gishu,590,217000.0,No,Yes,Outbound email,USD
+LG-102,Fictional B2B logistics firm LG-102,logistics,Nairobi,384,483000.0,Yes,Yes,Founder network,USD
+LG-103,Fictional B2B logistics firm LG-103,logistics,Nakuru,2731,1911000.0,No,No,Registry list,USD
+DS-112,Fictional Distributors firm DS-112,distributors,Other,534,248000.0,No,No,Event,USD
+MF-086,Fictional Manufacturers with dealer networks firm MF-086,manufacturers,Mombasa,1207,2767000.0,Yes,Yes,Event,USD
+TT-050,Fictional B2B travel-tech firm TT-050,travel_tech,Nakuru,1855,2436000.0,Yes,No,Event,USD
+MF-087,Fictional Manufacturers with dealer networks firm MF-087,manufacturers,Nakuru,965,1847000.0,No,Yes,Founder network,USD
+MF-088,Fictional Manufacturers with dealer networks firm MF-088,manufacturers,Nairobi,167,584000.0,No,No,Referral,USD
+DS-113,Fictional Distributors firm DS-113,distributors,Kiambu,121,75000.0,No,Yes,Outbound email,USD
+SW-113,Fictional B2B software firm SW-113,b2b_software,Nairobi,810,694000.0,Yes,Yes,Partner introduction,USD
+TT-051,Fictional B2B travel-tech firm TT-051,  TRAVEL TECH ,Nairobi,248,228000.0,Yes,No,Event,USD
+LG-104,Fictional B2B logistics firm LG-104,logistics,Nairobi,590,73450000.0,No,Yes,Registry list,KES
+PY-079,Fictional Payments firm PY-079,  PAYMENTS ,Uasin Gishu,4556,1539000.0,No,Yes,Event,USD
+MF-089,Fictional Manufacturers with dealer networks firm MF-089,manufacturers,Nairobi,378,1987000.0,No,Yes,Partner introduction,USD
+SW-059,Fictional B2B software firm SW-059,  B2B SOFTWARE ,Nairobi,874,1379000.0,No,Yes,Registry list,USD
+PY-043,Fictional Payments firm PY-043,payments,Other,2335,705000.0,Yes,Yes,Outbound email,USD
+DS-090,Fictional Distributors firm DS-090,distributors,Nairobi,1269,1269000.0,Yes,Yes,Partner introduction,USD
+LG-006,Fictional B2B logistics firm LG-006,logistics,Nairobi,518,1275000.0,Yes,No,Referral,USD
+IB-044,Fictional Insurance brokers firm IB-044,insurance_brokers,Nairobi,317,133000.0,Yes,No,Event,USD
+DS-055,Fictional Distributors firm DS-055,distributors,Kiambu,349,211000.0,Yes,Yes,Outbound email,USD
+PY-041,Fictional Payments firm PY-041,payments,Machakos,2068,798000.0,Yes,No,Partner introduction,USD
+DS-034,Fictional Distributors firm DS-034,distributors,Nairobi,884,1441000.0,No,No,Outbound email,USD
+DS-105,Fictional Distributors firm DS-105,distributors,Other,2048,1095000.0,No,Yes,Registry list,USD
+SW-064,Fictional B2B software firm SW-064,b2b_software,Uasin Gishu,221,360000.0,Yes,Yes,Outbound email,USD
+PY-048,Fictional Payments firm PY-048,payments,Nairobi,5831,274950000.0,Yes,No,Founder network,KES
+SW-031,Fictional B2B software firm SW-031,b2b_software,Machakos,463,,Yes,Yes,Partner introduction,USD

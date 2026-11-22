@@ -1,0 +1,4 @@
+Scenario,P(5+ contracts),Expected,10th to 90th percentile,Extra prospects at Quote sent for 80% chance,Extra prospects at Scoping call for 80% chance
+Pessimistic,0.07,2.4,1 to 4,25,119
+Base,0.66,5.4,3 to 8,4,9
+Optimistic,0.99,10.3,7 to 14,0,0

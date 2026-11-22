@@ -1,0 +1,601 @@
+firm_id,firm_name,segment,county,accounts_managed,annual_revenue_usd,has_digital_records,decision_maker_access,lead_source,revenue_currency,icp_pass,icp_fail_reason,icp_tier,annual_platform_fee_usd,est_year_one_value_usd
+DS-001,Fictional Distributors firm DS-001,distributors,Nakuru,153.0,80000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12240.0
+MF-001,Fictional Manufacturers with dealer networks firm MF-001,manufacturers,Nakuru,57.0,132000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12396.0
+MF-002,Fictional Manufacturers with dealer networks firm MF-002,manufacturers,Nairobi,2181.0,16965000.0,Yes,Yes,Outbound email,USD,True,,A,26172.0,77067.0
+LG-001,Fictional B2B logistics firm LG-001,logistics,Nairobi,522.0,721000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14163.0
+PY-001,Fictional Payments firm PY-001,payments,Kisumu,5329.0,3138000.0,Yes,Yes,Referral,USD,True,,B,63948.0,73362.0
+DS-002,Fictional Distributors firm DS-002,distributors,Nairobi,5151.0,3387000.0,No,No,Partner introduction,USD,False,no digital records; no decision-maker access,Not eligible,61812.0,71973.0
+SW-001,Fictional B2B software firm SW-001,b2b_software,Mombasa,498.0,865000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14595.0
+SW-002,Fictional B2B software firm SW-002,b2b_software,Nakuru,116.0,55000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12165.0
+PY-002,Fictional Payments firm PY-002,payments,Nairobi,1357.0,1548000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,16284.0,20928.0
+MF-003,Fictional Manufacturers with dealer networks firm MF-003,manufacturers,Nairobi,182.0,471000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13413.0
+LG-002,Fictional B2B logistics firm LG-002,logistics,Nairobi,375.0,1017000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15051.0
+MF-004,Fictional Manufacturers with dealer networks firm MF-004,manufacturers,Nairobi,423.0,1893000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17679.0
+LG-003,Fictional B2B logistics firm LG-003,logistics,Nairobi,1304.0,929000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,15648.0,18435.0
+PY-003,Fictional Payments firm PY-003,payments,Nairobi,2501.0,929000.0,Yes,Yes,Partner introduction,USD,True,,B,30012.0,32799.0
+PY-004,Fictional Payments firm PY-004,payments,Mombasa,3161.0,2176000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,37932.0,44460.0
+DS-003,Fictional Distributors firm DS-003,distributors,Nairobi,456.0,306000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12918.0
+MF-005,Fictional Manufacturers with dealer networks firm MF-005,manufacturers,Mombasa,113.0,378000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13134.0
+SW-003,Fictional B2B software firm SW-003,b2b_software,Machakos,1154.0,1313000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,13848.0,17787.0
+PY-005,Fictional Payments firm PY-005,payments,Kiambu,1183.0,697000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,14196.0,16287.0
+LG-004,Fictional B2B logistics firm LG-004,logistics,Nairobi,525.0,1991000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,17973.0
+SW-004,Fictional B2B software firm SW-004,b2b_software,Kiambu,1439.0,2064000.0,Yes,Yes,Registry list,USD,True,,B,17268.0,23460.0
+MF-006,Fictional Manufacturers with dealer networks firm MF-006,manufacturers,Kisumu,1048.0,3215000.0,No,Yes,Founder network,USD,False,no digital records,Not eligible,12576.0,22221.0
+SW-005,Fictional B2B software firm SW-005,b2b_software,Nairobi,914.0,1766000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,17298.0
+PY-006,Fictional Payments firm PY-006,payments,Nakuru,3951.0,1096000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,47412.0,50700.0
+LG-005,Fictional B2B logistics firm LG-005,logistics,Mombasa,381.0,,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+PY-007,Fictional Payments firm PY-007,payments,Nairobi,1321.0,1111000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,15852.0,19185.0
+LG-006,Fictional B2B logistics firm LG-006,logistics,Nairobi,518.0,1275000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15825.0
+DS-004,Fictional Distributors firm DS-004,distributors,Nairobi,419.0,208000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12624.0
+SW-006,Fictional B2B software firm SW-006,b2b_software,Machakos,538.0,1209000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15627.0
+DS-005,Fictional Distributors firm DS-005,distributors,Nairobi,2218.0,1324000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,26616.0,30588.0
+MF-007,Fictional Manufacturers with dealer networks firm MF-007,manufacturers,Nairobi,1325.0,2636000.0,No,No,Partner introduction,USD,False,no digital records; no decision-maker access,Not eligible,15900.0,23808.0
+DS-006,Fictional Distributors firm DS-006,distributors,Nairobi,2328.0,969000.0,Yes,Yes,Founder network,USD,True,,B,27936.0,30843.0
+MF-008,Fictional Manufacturers with dealer networks firm MF-008,manufacturers,Kisumu,248.0,1294000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15882.0
+DS-007,Fictional Distributors firm DS-007,distributors,Nairobi,1400.0,,Yes,Yes,Event,USD,True,,B,16800.0,16800.0
+LG-007,Fictional B2B logistics firm LG-007,logistics,Nairobi,138.0,201000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12603.0
+PY-008,Fictional Payments firm PY-008,payments,Mombasa,2218.0,,Yes,Yes,Registry list,USD,True,,B,26616.0,26616.0
+SW-007,Fictional B2B software firm SW-007,b2b_software,Kisumu,1095.0,1277000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,13140.0,16971.0
+DS-008,Fictional Distributors firm DS-008,distributors,Other,166.0,113000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12339.0
+DS-009,Fictional Distributors firm DS-009,distributors,Nairobi,1378.0,938000.0,No,Yes,Partner introduction,USD,False,no digital records,Not eligible,16536.0,19350.0
+TT-001,Fictional B2B travel-tech firm TT-001,travel_tech,Nakuru,404.0,993000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14979.0
+DS-010,Fictional Distributors firm DS-010,distributors,Nairobi,2016.0,698000.0,No,Yes,Event,USD,False,no digital records,Not eligible,24192.0,26286.0
+DS-011,Fictional Distributors firm DS-011,distributors,Mombasa,480.0,122000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12366.0
+MF-009,Fictional Manufacturers with dealer networks firm MF-009,manufacturers,Nairobi,283.0,387000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13161.0
+DS-012,Fictional Distributors firm DS-012,distributors,Nairobi,1030.0,448000.0,No,Yes,Partner introduction,USD,False,no digital records,Not eligible,12360.0,13704.0
+DS-013,Fictional Distributors firm DS-013,distributors,Kiambu,934.0,1675000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17025.0
+DS-014,Fictional Distributors firm DS-014,distributors,Nakuru,510.0,222000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12666.0
+SW-008,Fictional B2B software firm SW-008,b2b_software,Nairobi,1018.0,,Yes,Yes,Referral,USD,True,,B,12216.0,12216.0
+LG-008,Fictional B2B logistics firm LG-008,logistics,Mombasa,81.0,99000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12297.0
+LG-009,Fictional B2B logistics firm LG-009,logistics,Nairobi,784.0,1420000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16260.0
+DS-015,Fictional Distributors firm DS-015,distributors,Other,2539.0,3102000.0,No,No,Partner introduction,USD,False,no digital records; no decision-maker access,Not eligible,30468.0,39774.0
+DS-016,Fictional Distributors firm DS-016,distributors,Uasin Gishu,818.0,325000.0,No,No,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12975.0
+SW-009,Fictional B2B software firm SW-009,b2b_software,Nairobi,3065.0,6212000.0,Yes,Yes,Event,USD,True,,B,36780.0,55416.0
+LG-010,Fictional B2B logistics firm LG-010,logistics,Machakos,323.0,585000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13755.0
+TT-002,Fictional B2B travel-tech firm TT-002,travel_tech,Machakos,238.0,149000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12447.0
+LG-011,Fictional B2B logistics firm LG-011,logistics,Kisumu,102.0,174000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12522.0
+MF-010,Fictional Manufacturers with dealer networks firm MF-010,manufacturers,Other,1219.0,2076000.0,Yes,Yes,Registry list,USD,True,,B,14628.0,20856.0
+PY-009,Fictional Payments firm PY-009,payments,Kisumu,12041.0,1230000.0,Yes,Yes,Referral,USD,True,,B,144492.0,148182.0
+LG-012,Fictional B2B logistics firm LG-012,logistics,Mombasa,479.0,452000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13356.0
+PY-010,Fictional Payments firm PY-010,payments,Nakuru,15931.0,4755000.0,Yes,Yes,Partner introduction,USD,True,,B,191172.0,205437.0
+PY-011,Fictional Payments firm PY-011,payments,Uasin Gishu,7819.0,3824000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,93828.0,105300.0
+SW-010,Fictional B2B software firm SW-010,b2b_software,Kiambu,562.0,325000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12975.0
+IB-001,Fictional Insurance brokers firm IB-001,insurance_brokers,Mombasa,2708.0,1261000.0,Yes,Yes,Event,USD,True,,B,32496.0,36279.0
+TT-003,Fictional B2B travel-tech firm TT-003,travel_tech,Nairobi,4597.0,7189000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,55164.0,76731.0
+LG-013,Fictional B2B logistics firm LG-013,logistics,Nairobi,861.0,1160000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15480.0
+LG-014,Fictional B2B logistics firm LG-014,logistics,Nairobi,623.0,1352000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,16056.0
+SW-011,Fictional B2B software firm SW-011,b2b_software,Kiambu,266.0,236000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12708.0
+DS-017,Fictional Distributors firm DS-017,distributors,Kisumu,,840000.0,Yes,Yes,Registry list,USD,False,accounts unknown,Not eligible,,
+SW-012,Fictional B2B software firm SW-012,b2b_software,Nairobi,1006.0,2251000.0,Yes,Yes,Partner introduction,USD,True,,B,12072.0,18825.0
+LG-015,Fictional B2B logistics firm LG-015,logistics,Nairobi,739.0,,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12000.0
+TT-004,Fictional B2B travel-tech firm TT-004,travel_tech,Nairobi,595.0,490000.0,,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13470.0
+MF-011,Fictional Manufacturers with dealer networks firm MF-011,manufacturers,Nairobi,464.0,1925000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17775.0
+LG-016,Fictional B2B logistics firm LG-016,logistics,Nairobi,286.0,767000.0,No,Yes,Referral,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14301.0
+SW-013,Fictional B2B software firm SW-013,b2b_software,Nairobi,509.0,648000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13944.0
+PY-012,Fictional Payments firm PY-012,payments,Kisumu,1060.0,208000.0,Yes,Yes,Partner introduction,USD,True,,B,12720.0,13344.0
+MF-012,Fictional Manufacturers with dealer networks firm MF-012,manufacturers,Nairobi,291.0,362000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13086.0
+IB-002,Fictional Insurance brokers firm IB-002,insurance_brokers,Nairobi,1100.0,373000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,13200.0,14319.0
+PY-013,Fictional Payments firm PY-013,payments,Nairobi,1777.0,1429000.0,Yes,Yes,Event,USD,True,,B,21324.0,25611.0
+LG-017,Fictional B2B logistics firm LG-017,logistics,Mombasa,499.0,910000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14730.0
+LG-018,Fictional B2B logistics firm LG-018,logistics,Uasin Gishu,394.0,537000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13611.0
+TT-005,Fictional B2B travel-tech firm TT-005,travel_tech,Nairobi,,167000.0,Yes,Yes,Outbound email,USD,False,accounts unknown,Not eligible,,
+LG-019,Fictional B2B logistics firm LG-019,logistics,Kiambu,1000.0,2959000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,12000.0,20877.0
+SW-014,Fictional B2B software firm SW-014,b2b_software,Mombasa,579.0,648000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13944.0
+DS-018,Fictional Distributors firm DS-018,distributors,Nairobi,9729.0,5864000.0,No,No,Outbound email,USD,False,no digital records; no decision-maker access,Not eligible,116748.0,134340.0
+MF-013,Fictional Manufacturers with dealer networks firm MF-013,manufacturers,Uasin Gishu,159.0,842000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14526.0
+LG-020,Fictional B2B logistics firm LG-020,logistics,Nairobi,71.0,,No,No,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12000.0
+DS-019,Fictional Distributors firm DS-019,distributors,Machakos,3260.0,1301000.0,No,No,Event,USD,False,no digital records; no decision-maker access,Not eligible,39120.0,43023.0
+MF-014,Fictional Manufacturers with dealer networks firm MF-014,manufacturers,Uasin Gishu,382.0,758000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14274.0
+DS-020,Fictional Distributors firm DS-020,distributors,Mombasa,186.0,131000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12393.0
+MF-015,Fictional Manufacturers with dealer networks firm MF-015,manufacturers,Nairobi,337.0,630000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13890.0
+IB-003,Fictional Insurance brokers firm IB-003,insurance_brokers,Kiambu,628.0,375000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13125.0
+LG-021,Fictional B2B logistics firm LG-021,logistics,Nairobi,486.0,742000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14226.0
+MF-016,Fictional Manufacturers with dealer networks firm MF-016,manufacturers,Mombasa,211.0,792000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14376.0
+TT-006,Fictional B2B travel-tech firm TT-006,travel_tech,Machakos,646.0,,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+TT-007,Fictional B2B travel-tech firm TT-007,travel_tech,Other,658.0,695000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14085.0
+SW-015,Fictional B2B software firm SW-015,b2b_software,Nairobi,451.0,352000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13056.0
+LG-022,Fictional B2B logistics firm LG-022,logistics,Mombasa,2050.0,2757000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,24600.0,32871.0
+IB-004,Fictional Insurance brokers firm IB-004,insurance_brokers,Machakos,2823.0,1429000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,33876.0,38163.0
+MF-017,Fictional Manufacturers with dealer networks firm MF-017,manufacturers,Nakuru,136.0,600000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13800.0
+MF-018,Fictional Manufacturers with dealer networks firm MF-018,manufacturers,Nairobi,169.0,237000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12711.0
+LG-023,Fictional B2B logistics firm LG-023,logistics,Uasin Gishu,306.0,855000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14565.0
+SW-016,Fictional B2B software firm SW-016,b2b_software,Mombasa,496.0,1016000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15048.0
+SW-017,Fictional B2B software firm SW-017,b2b_software,Nairobi,329.0,196000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12588.0
+TT-008,Fictional B2B travel-tech firm TT-008,travel_tech,Nairobi,705.0,731000.0,,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14193.0
+DS-021,Fictional Distributors firm DS-021,distributors,Nakuru,1123.0,1413000.0,Yes,Yes,Registry list,USD,True,,B,13476.0,17715.0
+MF-019,Fictional Manufacturers with dealer networks firm MF-019,manufacturers,Mombasa,356.0,,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+SW-018,Fictional B2B software firm SW-018,b2b_software,Mombasa,1695.0,3931000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,20340.0,32133.0
+DS-022,Fictional Distributors firm DS-022,distributors,Mombasa,1099.0,,Yes,Yes,Founder network,USD,True,,B,13188.0,13188.0
+DS-023,Fictional Distributors firm DS-023,distributors,Kiambu,890.0,621000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13863.0
+SW-019,Fictional B2B software firm SW-019,b2b_software,Nairobi,500.0,371000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13113.0
+DS-024,Fictional Distributors firm DS-024,distributors,Kiambu,484.0,303000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12909.0
+SW-020,Fictional B2B software firm SW-020,b2b_software,Other,1406.0,1148000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,16872.0,20316.0
+LG-024,Fictional B2B logistics firm LG-024,logistics,Nakuru,847.0,2180000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,18540.0
+LG-025,Fictional B2B logistics firm LG-025,logistics,Nairobi,264.0,517000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13551.0
+LG-026,Fictional B2B logistics firm LG-026,logistics,Nairobi,318.0,642000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13926.0
+MF-020,Fictional Manufacturers with dealer networks firm MF-020,manufacturers,Nairobi,60.0,130000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12390.0
+IB-005,Fictional Insurance brokers firm IB-005,insurance_brokers,Mombasa,508.0,169000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12507.0
+MF-021,Fictional Manufacturers with dealer networks firm MF-021,manufacturers,Nairobi,427.0,1045000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15135.0
+TT-009,Fictional B2B travel-tech firm TT-009,travel_tech,Machakos,2385.0,2198000.0,Yes,Yes,Referral,USD,True,,B,28620.0,35214.0
+SW-021,Fictional B2B software firm SW-021,b2b_software,Nairobi,326.0,385000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13155.0
+DS-025,Fictional Distributors firm DS-025,distributors,Nairobi,1712.0,,Yes,Yes,Referral,USD,True,,B,20544.0,20544.0
+PY-014,Fictional Payments firm PY-014,payments,Nairobi,3045.0,883000.0,Yes,Yes,Founder network,USD,True,,B,36540.0,39189.0
+DS-026,Fictional Distributors firm DS-026,distributors,Nairobi,1314.0,1109000.0,Yes,Yes,Referral,USD,True,,B,15768.0,19095.0
+SW-022,Fictional B2B software firm SW-022,b2b_software,Kisumu,842.0,1037000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15111.0
+DS-027,Fictional Distributors firm DS-027,distributors,Nairobi,1844.0,841000.0,Yes,Yes,Event,USD,True,,B,22128.0,24651.0
+TT-010,Fictional B2B travel-tech firm TT-010,travel_tech,Nairobi,918.0,534000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13602.0
+LG-027,Fictional B2B logistics firm LG-027,logistics,Nairobi,924.0,1884000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,17652.0
+LG-028,Fictional B2B logistics firm LG-028,logistics,Nakuru,530.0,743000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14229.0
+MF-022,Fictional Manufacturers with dealer networks firm MF-022,manufacturers,Nairobi,150.0,543000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13629.0
+IB-006,Fictional Insurance brokers firm IB-006,insurance_brokers,Nairobi,3022.0,,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,36264.0,36264.0
+IB-007,Fictional Insurance brokers firm IB-007,insurance_brokers,Kiambu,497.0,192000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12576.0
+SW-023,Fictional B2B software firm SW-023,b2b_software,Nairobi,2578.0,1090000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,30936.0,34206.0
+DS-028,Fictional Distributors firm DS-028,distributors,Machakos,267.0,319000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12957.0
+LG-029,Fictional B2B logistics firm LG-029,logistics,Nairobi,4014.0,3517000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,48168.0,58719.0
+IB-008,Fictional Insurance brokers firm IB-008,insurance_brokers,Nairobi,1425.0,303000.0,Yes,Yes,Registry list,USD,True,,B,17100.0,18009.0
+TT-011,Fictional B2B travel-tech firm TT-011,travel_tech,Nakuru,2092.0,1088000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,25104.0,28368.0
+DS-029,Fictional Distributors firm DS-029,distributors,Nairobi,1213.0,330000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,14556.0,15546.0
+IB-009,Fictional Insurance brokers firm IB-009,insurance_brokers,Nairobi,3697.0,2445000.0,Yes,Yes,Founder network,USD,True,,B,44364.0,51699.0
+PY-015,Fictional Payments firm PY-015,payments,Nairobi,2492.0,640000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,29904.0,31824.0
+DS-030,Fictional Distributors firm DS-030,distributors,Nairobi,1669.0,543000.0,Yes,Yes,Event,USD,True,,B,20028.0,21657.0
+DS-031,Fictional Distributors firm DS-031,distributors,Kiambu,154.0,47000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12141.0
+IB-010,Fictional Insurance brokers firm IB-010,insurance_brokers,Kisumu,942.0,287000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12861.0
+LG-030,Fictional B2B logistics firm LG-030,logistics,Nairobi,245.0,252000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12756.0
+PY-016,Fictional Payments firm PY-016,payments,Nairobi,6570.0,2930000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,78840.0,87630.0
+MF-023,Fictional Manufacturers with dealer networks firm MF-023,manufacturers,Nairobi,135.0,141000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12423.0
+PY-017,Fictional Payments firm PY-017,payments,Nairobi,1182.0,478000.0,Yes,Yes,Referral,USD,True,,B,14184.0,15618.0
+SW-024,Fictional B2B software firm SW-024,b2b_software,Nakuru,1435.0,698000.0,Yes,Yes,Founder network,USD,True,,B,17220.0,19314.0
+IB-011,Fictional Insurance brokers firm IB-011,insurance_brokers,Mombasa,1040.0,395000.0,Yes,Yes,Event,USD,True,,B,12480.0,13665.0
+MF-024,Fictional Manufacturers with dealer networks firm MF-024,manufacturers,Nairobi,51.0,150000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12450.0
+PY-018,Fictional Payments firm PY-018,payments,Nairobi,3090.0,906000.0,Yes,Yes,Event,USD,True,,B,37080.0,39798.0
+LG-031,Fictional B2B logistics firm LG-031,logistics,Kiambu,100.0,147000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12441.0
+SW-025,Fictional B2B software firm SW-025,b2b_software,Nakuru,862.0,1446000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16338.0
+LG-032,Fictional B2B logistics firm LG-032,logistics,Nairobi,898.0,673000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14019.0
+DS-032,Fictional Distributors firm DS-032,distributors,Nairobi,1055.0,384000.0,,No,Registry list,USD,False,no digital records; no decision-maker access,Not eligible,12660.0,13812.0
+LG-033,Fictional B2B logistics firm LG-033,logistics,Kiambu,2697.0,2792000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,32364.0,40740.0
+PY-019,Fictional Payments firm PY-019,payments,Mombasa,3726.0,1898000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,44712.0,50406.0
+LG-034,Fictional B2B logistics firm LG-034,logistics,Kiambu,1246.0,2960000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,14952.0,23832.0
+TT-012,Fictional B2B travel-tech firm TT-012,travel_tech,Nairobi,487.0,231000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12693.0
+DS-033,Fictional Distributors firm DS-033,distributors,Kisumu,1325.0,1026000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,15900.0,18978.0
+DS-034,Fictional Distributors firm DS-034,distributors,Nairobi,884.0,1441000.0,No,No,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,16323.0
+MF-025,Fictional Manufacturers with dealer networks firm MF-025,manufacturers,Nairobi,443.0,3419000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,22257.0
+TT-013,Fictional B2B travel-tech firm TT-013,travel_tech,Kiambu,586.0,240000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12720.0
+TT-014,Fictional B2B travel-tech firm TT-014,travel_tech,Mombasa,1841.0,845000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,22092.0,24627.0
+MF-026,Fictional Manufacturers with dealer networks firm MF-026,manufacturers,Uasin Gishu,521.0,1129000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15387.0
+IB-012,Fictional Insurance brokers firm IB-012,insurance_brokers,Uasin Gishu,1167.0,542000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,14004.0,15630.0
+SW-026,Fictional B2B software firm SW-026,b2b_software,Kisumu,637.0,705000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14115.0
+DS-035,Fictional Distributors firm DS-035,distributors,Nairobi,298.0,277000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12831.0
+IB-013,Fictional Insurance brokers firm IB-013,insurance_brokers,Mombasa,1296.0,521000.0,No,Yes,Event,USD,False,no digital records,Not eligible,15552.0,17115.0
+IB-014,Fictional Insurance brokers firm IB-014,insurance_brokers,Uasin Gishu,1806.0,221000.0,No,Yes,Partner introduction,USD,False,no digital records,Not eligible,21672.0,22335.0
+MF-027,Fictional Manufacturers with dealer networks firm MF-027,manufacturers,Nairobi,240.0,971000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14913.0
+IB-015,Fictional Insurance brokers firm IB-015,insurance_brokers,Nairobi,712.0,344000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13032.0
+LG-035,Fictional B2B logistics firm LG-035,logistics,Mombasa,85.0,188000.0,,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12564.0
+DS-036,Fictional Distributors firm DS-036,distributors,Nairobi,625.0,419000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13257.0
+SW-027,Fictional B2B software firm SW-027,b2b_software,Mombasa,1230.0,1443000.0,Yes,Yes,Partner introduction,USD,True,,B,14760.0,19089.0
+PY-020,Fictional Payments firm PY-020,payments,Nairobi,2340.0,803000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,28080.0,30489.0
+DS-037,Fictional Distributors firm DS-037,distributors,Machakos,540.0,224000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12672.0
+LG-036,Fictional B2B logistics firm LG-036,logistics,Mombasa,563.0,1386000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16158.0
+SW-028,Fictional B2B software firm SW-028,b2b_software,Nairobi,878.0,995000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14985.0
+PY-021,Fictional Payments firm PY-021,payments,Nairobi,1128.0,612000.0,Yes,Yes,Founder network,USD,True,,B,13536.0,15372.0
+DS-038,Fictional Distributors firm DS-038,distributors,Nairobi,1418.0,,Yes,Yes,Referral,USD,True,,B,17016.0,17016.0
+PY-022,Fictional Payments firm PY-022,payments,Nakuru,1548.0,306000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,18576.0,19494.0
+PY-023,Fictional Payments firm PY-023,payments,Mombasa,4866.0,1574000.0,Yes,Yes,Referral,USD,True,,B,58392.0,63114.0
+PY-024,Fictional Payments firm PY-024,payments,Nairobi,2987.0,1353000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,35844.0,39903.0
+PY-025,Fictional Payments firm PY-025,payments,Nairobi,1673.0,483000.0,Yes,Yes,Partner introduction,USD,True,,B,20076.0,21525.0
+TT-015,Fictional B2B travel-tech firm TT-015,travel_tech,Nairobi,956.0,390000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13170.0
+LG-037,Fictional B2B logistics firm LG-037,logistics,Nairobi,1304.0,2834000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,15648.0,24150.0
+LG-038,Fictional B2B logistics firm LG-038,logistics,Machakos,150.0,392000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13176.0
+LG-039,Fictional B2B logistics firm LG-039,logistics,Kisumu,293.0,976000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14928.0
+SW-029,Fictional B2B software firm SW-029,b2b_software,Nairobi,529.0,272000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12816.0
+TT-016,Fictional B2B travel-tech firm TT-016,travel_tech,Nairobi,797.0,644000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13932.0
+SW-030,Fictional B2B software firm SW-030,b2b_software,Nairobi,58.0,69000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12207.0
+IB-016,Fictional Insurance brokers firm IB-016,insurance_brokers,Nakuru,7484.0,1335000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,89808.0,93813.0
+PY-026,Fictional Payments firm PY-026,payments,Nairobi,5159.0,4186000.0,Yes,Yes,Outbound email,USD,True,,B,61908.0,74466.0
+TT-017,Fictional B2B travel-tech firm TT-017,travel_tech,Machakos,745.0,420000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13260.0
+PY-027,Fictional Payments firm PY-027,payments,Nairobi,562.0,394000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13182.0
+IB-017,Fictional Insurance brokers firm IB-017,insurance_brokers,Mombasa,249.0,69000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12207.0
+DS-039,Fictional Distributors firm DS-039,distributors,Uasin Gishu,2121.0,1265000.0,Yes,Yes,Founder network,USD,True,,B,25452.0,29247.0
+DS-040,Fictional Distributors firm DS-040,distributors,Nakuru,528.0,269000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12807.0
+MF-028,Fictional Manufacturers with dealer networks firm MF-028,manufacturers,Nairobi,390.0,1937000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17811.0
+SW-031,Fictional B2B software firm SW-031,b2b_software,Machakos,463.0,,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+SW-032,Fictional B2B software firm SW-032,b2b_software,Kiambu,3158.0,5703000.0,Yes,Yes,Event,USD,True,,B,37896.0,55005.0
+LG-040,Fictional B2B logistics firm LG-040,logistics,Machakos,843.0,1078000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15234.0
+SW-033,Fictional B2B software firm SW-033,b2b_software,Nairobi,350.0,898000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14694.0
+LG-041,Fictional B2B logistics firm LG-041,logistics,Nairobi,408.0,702000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14106.0
+IB-018,Fictional Insurance brokers firm IB-018,insurance_brokers,Nairobi,752.0,566000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13698.0
+PY-028,Fictional Payments firm PY-028,payments,Kiambu,2430.0,694000.0,,Yes,Event,USD,False,no digital records,Not eligible,29160.0,31242.0
+DS-041,Fictional Distributors firm DS-041,distributors,Nairobi,265.0,142000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12426.0
+SW-034,Fictional B2B software firm SW-034,b2b_software,Nairobi,493.0,642000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13926.0
+DS-042,Fictional Distributors firm DS-042,distributors,Nakuru,800.0,646000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13938.0
+SW-035,Fictional B2B software firm SW-035,b2b_software,Nairobi,452.0,435000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13305.0
+TT-018,Fictional B2B travel-tech firm TT-018,travel_tech,Nairobi,543.0,360000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13080.0
+IB-019,Fictional Insurance brokers firm IB-019,insurance_brokers,Nairobi,924.0,779000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14337.0
+PY-029,Fictional Payments firm PY-029,payments,Nairobi,1865.0,488000.0,Yes,Yes,Event,USD,True,,B,22380.0,23844.0
+MF-029,Fictional Manufacturers with dealer networks firm MF-029,manufacturers,Kiambu,170.0,390000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13170.0
+DS-043,Fictional Distributors firm DS-043,distributors,Other,7443.0,2663000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,89316.0,97305.0
+DS-044,Fictional Distributors firm DS-044,distributors,Nakuru,852.0,660000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13980.0
+LG-042,Fictional B2B logistics firm LG-042,logistics,Kiambu,1130.0,2421000.0,Yes,Yes,Founder network,USD,True,,B,13560.0,20823.0
+LG-043,Fictional B2B logistics firm LG-043,logistics,Nairobi,1728.0,2707000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,20736.0,28857.0
+DS-045,Fictional Distributors firm DS-045,distributors,Machakos,448.0,280000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12840.0
+SW-036,Fictional B2B software firm SW-036,b2b_software,Nakuru,496.0,414000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13242.0
+MF-030,Fictional Manufacturers with dealer networks firm MF-030,manufacturers,Nairobi,454.0,1638000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16914.0
+PY-030,Fictional Payments firm PY-030,payments,Nairobi,8789.0,3004000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,105468.0,114480.0
+SW-037,Fictional B2B software firm SW-037,b2b_software,Nairobi,323.0,314000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12942.0
+DS-046,Fictional Distributors firm DS-046,distributors,Nairobi,2831.0,1012000.0,Yes,Yes,Founder network,USD,True,,B,33972.0,37008.0
+DS-047,Fictional Distributors firm DS-047,distributors,Nairobi,34441.0,48858000.0,Yes,Yes,Referral,USD,True,,A,413292.0,559866.0
+DS-048,Fictional Distributors firm DS-048,distributors,Nairobi,1260.0,621000.0,No,No,Registry list,USD,False,no digital records; no decision-maker access,Not eligible,15120.0,16983.0
+PY-031,Fictional Payments firm PY-031,payments,Nairobi,1606.0,548000.0,Yes,Yes,Registry list,USD,True,,B,19272.0,20916.0
+DS-049,Fictional Distributors firm DS-049,distributors,Mombasa,739.0,1038000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,15114.0
+SW-038,Fictional B2B software firm SW-038,b2b_software,Uasin Gishu,688.0,932000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14796.0
+MF-031,Fictional Manufacturers with dealer networks firm MF-031,manufacturers,Nakuru,160.0,308000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12924.0
+PY-032,Fictional Payments firm PY-032,payments,Nairobi,4714.0,1928000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,56568.0,62352.0
+MF-032,Fictional Manufacturers with dealer networks firm MF-032,manufacturers,Machakos,1215.0,2870000.0,No,Yes,Event,USD,False,no digital records,Not eligible,14580.0,23190.0
+IB-020,Fictional Insurance brokers firm IB-020,insurance_brokers,Nakuru,595.0,128000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12384.0
+MF-033,Fictional Manufacturers with dealer networks firm MF-033,manufacturers,Nairobi,778.0,5828000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,29484.0
+MF-034,Fictional Manufacturers with dealer networks firm MF-034,manufacturers,Other,184.0,221000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12663.0
+SW-039,Fictional B2B software firm SW-039,b2b_software,Nakuru,3551.0,10338000.0,Yes,Yes,Outbound email,USD,True,,A,42612.0,73626.0
+SW-040,Fictional B2B software firm SW-040,b2b_software,Nairobi,599.0,600000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13800.0
+LG-044,Fictional B2B logistics firm LG-044,logistics,Nairobi,531.0,,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12000.0
+IB-021,Fictional Insurance brokers firm IB-021,insurance_brokers,Mombasa,1195.0,171000.0,Yes,Yes,Partner introduction,USD,True,,B,14340.0,14853.0
+MF-035,Fictional Manufacturers with dealer networks firm MF-035,manufacturers,Nairobi,388.0,1381000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,16143.0
+SW-041,Fictional B2B software firm SW-041,b2b_software,Mombasa,201.0,,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+PY-033,Fictional Payments firm PY-033,payments,Machakos,1635.0,301000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,19620.0,20523.0
+IB-022,Fictional Insurance brokers firm IB-022,insurance_brokers,Nairobi,202.0,96000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12288.0
+SW-042,Fictional B2B software firm SW-042,b2b_software,Kiambu,473.0,584000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13752.0
+PY-034,Fictional Payments firm PY-034,payments,Nairobi,1212.0,322000.0,,Yes,Event,USD,False,no digital records,Not eligible,14544.0,15510.0
+SW-043,Fictional B2B software firm SW-043,b2b_software,Nakuru,271.0,268000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12804.0
+SW-044,Fictional B2B software firm SW-044,b2b_software,Nakuru,288.0,345000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13035.0
+LG-045,Fictional B2B logistics firm LG-045,logistics,Nakuru,784.0,1109000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15327.0
+TT-019,Fictional B2B travel-tech firm TT-019,travel_tech,Nairobi,432.0,185000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12555.0
+LG-046,Fictional B2B logistics firm LG-046,logistics,Nairobi,753.0,1256000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15768.0
+TT-020,Fictional B2B travel-tech firm TT-020,travel_tech,Kisumu,1379.0,575000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,16548.0,18273.0
+MF-036,Fictional Manufacturers with dealer networks firm MF-036,manufacturers,Nairobi,434.0,837000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,14511.0
+LG-047,Fictional B2B logistics firm LG-047,logistics,Nairobi,963.0,991000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14973.0
+PY-035,Fictional Payments firm PY-035,payments,Other,1267.0,1010000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,15204.0,18234.0
+IB-023,Fictional Insurance brokers firm IB-023,insurance_brokers,Mombasa,922.0,461000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13383.0
+LG-048,Fictional B2B logistics firm LG-048,logistics,Kisumu,1345.0,1019000.0,Yes,Yes,Event,USD,True,,B,16140.0,19197.0
+MF-037,Fictional Manufacturers with dealer networks firm MF-037,manufacturers,Nakuru,178.0,349000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13047.0
+SW-045,Fictional B2B software firm SW-045,b2b_software,Kiambu,1222.0,884000.0,Yes,Yes,Partner introduction,USD,True,,B,14664.0,17316.0
+SW-046,Fictional B2B software firm SW-046,b2b_software,Nakuru,58.0,60000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12180.0
+DS-050,Fictional Distributors firm DS-050,distributors,Nairobi,804.0,378000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13134.0
+TT-021,Fictional B2B travel-tech firm TT-021,travel_tech,Nairobi,937.0,1115000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15345.0
+PY-036,Fictional Payments firm PY-036,payments,Nairobi,640.0,,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+PY-037,Fictional Payments firm PY-037,payments,Nairobi,1326.0,751000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,15912.0,18165.0
+MF-038,Fictional Manufacturers with dealer networks firm MF-038,manufacturers,Nakuru,1676.0,4232000.0,No,Yes,Partner introduction,USD,False,no digital records,Not eligible,20112.0,32808.0
+SW-047,Fictional B2B software firm SW-047,b2b_software,Kiambu,207.0,288000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12864.0
+LG-049,Fictional B2B logistics firm LG-049,logistics,Nakuru,100.0,173000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12519.0
+MF-039,Fictional Manufacturers with dealer networks firm MF-039,manufacturers,Kisumu,887.0,4416000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,25248.0
+IB-024,Fictional Insurance brokers firm IB-024,insurance_brokers,Nairobi,822.0,158000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12474.0
+TT-022,Fictional B2B travel-tech firm TT-022,travel_tech,Machakos,1268.0,1414000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,15216.0,19458.0
+MF-040,Fictional Manufacturers with dealer networks firm MF-040,manufacturers,Kiambu,282.0,1153000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,15459.0
+LG-050,Fictional B2B logistics firm LG-050,logistics,Nakuru,1573.0,7191000.0,No,Yes,Event,USD,False,no digital records,Not eligible,18876.0,40449.0
+IB-025,Fictional Insurance brokers firm IB-025,insurance_brokers,Nairobi,1835.0,739000.0,No,No,Founder network,USD,False,no digital records; no decision-maker access,Not eligible,22020.0,24237.0
+PY-038,Fictional Payments firm PY-038,payments,Nairobi,5159.0,2227000.0,Yes,Yes,Registry list,USD,True,,B,61908.0,68589.0
+MF-041,Fictional Manufacturers with dealer networks firm MF-041,manufacturers,Nairobi,697.0,1231000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15693.0
+LG-051,Fictional B2B logistics firm LG-051,logistics,Kiambu,437.0,634000.0,No,Yes,Referral,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13902.0
+SW-048,Fictional B2B software firm SW-048,b2b_software,Nairobi,900.0,1450000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16350.0
+LG-052,Fictional B2B logistics firm LG-052,logistics,Other,136.0,80000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12240.0
+DS-051,Fictional Distributors firm DS-051,distributors,Nairobi,828.0,587000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13761.0
+SW-049,Fictional B2B software firm SW-049,b2b_software,Uasin Gishu,236.0,465000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13395.0
+TT-023,Fictional B2B travel-tech firm TT-023,travel_tech,Nairobi,133.0,109000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12327.0
+IB-026,Fictional Insurance brokers firm IB-026,insurance_brokers,Nairobi,2183.0,789000.0,Yes,Yes,Referral,USD,True,,B,26196.0,28563.0
+IB-027,Fictional Insurance brokers firm IB-027,insurance_brokers,Nairobi,171.0,53000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12159.0
+SW-050,Fictional B2B software firm SW-050,b2b_software,Machakos,107.0,313000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12939.0
+SW-051,Fictional B2B software firm SW-051,b2b_software,Mombasa,992.0,2358000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,19074.0
+IB-028,Fictional Insurance brokers firm IB-028,insurance_brokers,Nairobi,77.0,6000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12018.0
+SW-052,Fictional B2B software firm SW-052,b2b_software,Kiambu,962.0,922000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14766.0
+DS-052,Fictional Distributors firm DS-052,distributors,Nairobi,754.0,404000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13212.0
+SW-053,Fictional B2B software firm SW-053,b2b_software,Kisumu,288.0,811000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14433.0
+LG-053,Fictional B2B logistics firm LG-053,logistics,Nairobi,500.0,1123000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15369.0
+MF-042,Fictional Manufacturers with dealer networks firm MF-042,manufacturers,Nairobi,388.0,1049000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15147.0
+PY-039,Fictional Payments firm PY-039,payments,Nairobi,2938.0,4129000.0,Yes,Yes,Outbound email,USD,True,,B,35256.0,47643.0
+MF-043,Fictional Manufacturers with dealer networks firm MF-043,manufacturers,Kiambu,287.0,574000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13722.0
+DS-053,Fictional Distributors firm DS-053,distributors,Machakos,3472.0,1587000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,41664.0,46425.0
+IB-029,Fictional Insurance brokers firm IB-029,insurance_brokers,Mombasa,3582.0,1528000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,42984.0,47568.0
+DS-054,Fictional Distributors firm DS-054,distributors,Mombasa,2690.0,1250000.0,No,No,Outbound email,USD,False,no digital records; no decision-maker access,Not eligible,32280.0,36030.0
+DS-055,Fictional Distributors firm DS-055,distributors,Kiambu,349.0,211000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12633.0
+SW-054,Fictional B2B software firm SW-054,b2b_software,Mombasa,394.0,447000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13341.0
+MF-044,Fictional Manufacturers with dealer networks firm MF-044,manufacturers,Nairobi,432.0,1091000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,15273.0
+MF-045,Fictional Manufacturers with dealer networks firm MF-045,manufacturers,Nairobi,201.0,487000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13461.0
+LG-054,Fictional B2B logistics firm LG-054,logistics,Kisumu,232.0,450000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13350.0
+TT-024,Fictional B2B travel-tech firm TT-024,travel_tech,Machakos,,751000.0,No,No,Registry list,USD,False,accounts unknown; no digital records; no decision-maker access,Not eligible,,
+DS-056,Fictional Distributors firm DS-056,distributors,Mombasa,818.0,531000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13593.0
+IB-030,Fictional Insurance brokers firm IB-030,insurance_brokers,Nairobi,788.0,307000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12921.0
+MF-046,Fictional Manufacturers with dealer networks firm MF-046,manufacturers,Nakuru,363.0,377000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13131.0
+DS-057,Fictional Distributors firm DS-057,distributors,Kiambu,978.0,450000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13350.0
+SW-055,Fictional B2B software firm SW-055,b2b_software,Nairobi,954.0,2689000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,20067.0
+SW-056,Fictional B2B software firm SW-056,b2b_software,Kisumu,4903.0,5258000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,58836.0,74610.0
+SW-057,Fictional B2B software firm SW-057,b2b_software,Mombasa,2075.0,2558000.0,Yes,Yes,Founder network,USD,True,,B,24900.0,32574.0
+SW-058,Fictional B2B software firm SW-058,b2b_software,Nairobi,103.0,150000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12450.0
+DS-058,Fictional Distributors firm DS-058,distributors,Mombasa,958.0,1529000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,16587.0
+TT-025,Fictional B2B travel-tech firm TT-025,travel_tech,Other,834.0,831000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14493.0
+SW-059,Fictional B2B software firm SW-059,b2b_software,Nairobi,874.0,1379000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,16137.0
+LG-055,Fictional B2B logistics firm LG-055,logistics,Nairobi,995.0,1743000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,17229.0
+LG-056,Fictional B2B logistics firm LG-056,logistics,Mombasa,1063.0,4430000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,12756.0,26046.0
+SW-060,Fictional B2B software firm SW-060,b2b_software,Kiambu,1003.0,1262000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,12036.0,15822.0
+PY-040,Fictional Payments firm PY-040,payments,Nairobi,1295.0,381000.0,No,Yes,Partner introduction,USD,False,no digital records,Not eligible,15540.0,16683.0
+MF-047,Fictional Manufacturers with dealer networks firm MF-047,manufacturers,Nakuru,337.0,866000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14598.0
+SW-061,Fictional B2B software firm SW-061,b2b_software,Nairobi,624.0,1296000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15888.0
+MF-048,Fictional Manufacturers with dealer networks firm MF-048,manufacturers,Kiambu,643.0,2739000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,20217.0
+DS-059,Fictional Distributors firm DS-059,distributors,Nairobi,344.0,,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12000.0
+TT-026,Fictional B2B travel-tech firm TT-026,travel_tech,Nairobi,319.0,167000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12501.0
+DS-060,Fictional Distributors firm DS-060,distributors,Kiambu,7219.0,3863000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,86628.0,98217.0
+SW-062,Fictional B2B software firm SW-062,b2b_software,Nairobi,82.0,172000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12516.0
+SW-063,Fictional B2B software firm SW-063,b2b_software,Nakuru,1036.0,1178000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,12432.0,15966.0
+IB-031,Fictional Insurance brokers firm IB-031,insurance_brokers,Nairobi,1113.0,454000.0,Yes,Yes,Founder network,USD,True,,B,13356.0,14718.0
+DS-061,Fictional Distributors firm DS-061,distributors,Machakos,1220.0,736000.0,No,No,Founder network,USD,False,no digital records; no decision-maker access,Not eligible,14640.0,16848.0
+TT-027,Fictional B2B travel-tech firm TT-027,travel_tech,Nairobi,683.0,615000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13845.0
+MF-049,Fictional Manufacturers with dealer networks firm MF-049,manufacturers,Other,421.0,1683000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,17049.0
+DS-062,Fictional Distributors firm DS-062,distributors,Nakuru,303.0,329000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12987.0
+IB-032,Fictional Insurance brokers firm IB-032,insurance_brokers,Nairobi,6709.0,4453000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,80508.0,93867.0
+SW-064,Fictional B2B software firm SW-064,b2b_software,Uasin Gishu,221.0,360000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13080.0
+PY-041,Fictional Payments firm PY-041,payments,Machakos,2068.0,798000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,24816.0,27210.0
+TT-028,Fictional B2B travel-tech firm TT-028,travel_tech,Nairobi,2296.0,3285000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,27552.0,37407.0
+PY-042,Fictional Payments firm PY-042,payments,Nakuru,1698.0,1254000.0,Yes,Yes,Partner introduction,USD,True,,B,20376.0,24138.0
+PY-043,Fictional Payments firm PY-043,payments,Other,2335.0,705000.0,Yes,Yes,Outbound email,USD,True,,B,28020.0,30135.0
+SW-065,Fictional B2B software firm SW-065,b2b_software,Nakuru,1160.0,453000.0,Yes,Yes,Partner introduction,USD,True,,B,13920.0,15279.0
+DS-063,Fictional Distributors firm DS-063,distributors,Mombasa,1338.0,653000.0,,No,Founder network,USD,False,no digital records; no decision-maker access,Not eligible,16056.0,18015.0
+DS-064,Fictional Distributors firm DS-064,distributors,Nakuru,173.0,69000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12207.0
+SW-066,Fictional B2B software firm SW-066,b2b_software,Nairobi,3187.0,,Yes,No,Event,USD,False,no decision-maker access,Not eligible,38244.0,38244.0
+PY-044,Fictional Payments firm PY-044,payments,Mombasa,554.0,121000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12363.0
+DS-065,Fictional Distributors firm DS-065,distributors,Nakuru,1378.0,613000.0,No,No,Outbound email,USD,False,no digital records; no decision-maker access,Not eligible,16536.0,18375.0
+PY-045,Fictional Payments firm PY-045,payments,Other,1896.0,970000.0,Yes,Yes,Partner introduction,USD,True,,B,22752.0,25662.0
+LG-057,Fictional B2B logistics firm LG-057,logistics,Kiambu,867.0,4055000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,24165.0
+IB-033,Fictional Insurance brokers firm IB-033,insurance_brokers,Nairobi,5477.0,1495000.0,Yes,Yes,Partner introduction,USD,True,,B,65724.0,70209.0
+TT-029,Fictional B2B travel-tech firm TT-029,travel_tech,Nairobi,726.0,601000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13803.0
+LG-058,Fictional B2B logistics firm LG-058,logistics,Mombasa,955.0,,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+PY-046,Fictional Payments firm PY-046,payments,Nairobi,1589.0,782000.0,,Yes,Founder network,USD,False,no digital records,Not eligible,19068.0,21414.0
+DS-066,Fictional Distributors firm DS-066,distributors,Nairobi,683.0,1019000.0,,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15057.0
+LG-059,Fictional B2B logistics firm LG-059,logistics,Nairobi,179.0,366000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13098.0
+SW-067,Fictional B2B software firm SW-067,b2b_software,Nairobi,1224.0,1387000.0,,Yes,Event,USD,False,no digital records,Not eligible,14688.0,18849.0
+SW-068,Fictional B2B software firm SW-068,b2b_software,Nairobi,941.0,591000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13773.0
+PY-047,Fictional Payments firm PY-047,payments,Kisumu,811.0,237000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12711.0
+PY-048,Fictional Payments firm PY-048,payments,Nairobi,5831.0,2115000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,69972.0,76317.0
+SW-069,Fictional B2B software firm SW-069,b2b_software,Nairobi,935.0,1091000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15273.0
+DS-067,Fictional Distributors firm DS-067,distributors,Kiambu,1912.0,1714000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,22944.0,28086.0
+IB-034,Fictional Insurance brokers firm IB-034,insurance_brokers,Nairobi,299.0,79000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12237.0
+SW-070,Fictional B2B software firm SW-070,b2b_software,Nairobi,438.0,1039000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15117.0
+PY-049,Fictional Payments firm PY-049,payments,Uasin Gishu,832.0,900000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14700.0
+SW-071,Fictional B2B software firm SW-071,b2b_software,Nakuru,1363.0,2156000.0,Yes,Yes,Partner introduction,USD,True,,B,16356.0,22824.0
+IB-035,Fictional Insurance brokers firm IB-035,insurance_brokers,Nairobi,6232.0,2551000.0,No,Yes,Referral,USD,False,no digital records,Not eligible,74784.0,82437.0
+TT-030,Fictional B2B travel-tech firm TT-030,travel_tech,Kiambu,783.0,397000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13191.0
+PY-050,Fictional Payments firm PY-050,payments,Nairobi,765.0,222000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12666.0
+DS-068,Fictional Distributors firm DS-068,distributors,Nairobi,353.0,87000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12261.0
+DS-069,Fictional Distributors firm DS-069,distributors,Nakuru,1712.0,2047000.0,No,No,Partner introduction,USD,False,no digital records; no decision-maker access,Not eligible,20544.0,26685.0
+LG-060,Fictional B2B logistics firm LG-060,logistics,Nakuru,965.0,2728000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,20184.0
+SW-072,Fictional B2B software firm SW-072,b2b_software,Nairobi,848.0,385000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13155.0
+MF-050,Fictional Manufacturers with dealer networks firm MF-050,manufacturers,Machakos,864.0,2642000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,19926.0
+LG-061,Fictional B2B logistics firm LG-061,logistics,Uasin Gishu,1585.0,2769000.0,Yes,Yes,Referral,USD,True,,B,19020.0,27327.0
+SW-073,Fictional B2B software firm SW-073,b2b_software,Mombasa,458.0,326000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12978.0
+SW-074,Fictional B2B software firm SW-074,b2b_software,Nairobi,910.0,656000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13968.0
+MF-051,Fictional Manufacturers with dealer networks firm MF-051,manufacturers,Kiambu,707.0,1051000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15153.0
+SW-075,Fictional B2B software firm SW-075,b2b_software,Kiambu,991.0,2072000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,18216.0
+TT-031,Fictional B2B travel-tech firm TT-031,travel_tech,Kiambu,650.0,411000.0,,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13233.0
+IB-036,Fictional Insurance brokers firm IB-036,insurance_brokers,Mombasa,895.0,504000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13512.0
+DS-070,Fictional Distributors firm DS-070,distributors,Nairobi,159.0,122000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12366.0
+MF-052,Fictional Manufacturers with dealer networks firm MF-052,manufacturers,Nairobi,157.0,578000.0,No,Yes,Referral,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13734.0
+TT-032,Fictional B2B travel-tech firm TT-032,travel_tech,Kiambu,657.0,378000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13134.0
+DS-071,Fictional Distributors firm DS-071,distributors,Mombasa,2200.0,1008000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,26400.0,29424.0
+LG-062,Fictional B2B logistics firm LG-062,logistics,Nairobi,1071.0,2085000.0,Yes,Yes,Outbound email,USD,True,,B,12852.0,19107.0
+IB-037,Fictional Insurance brokers firm IB-037,insurance_brokers,Nakuru,1451.0,313000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,17412.0,18351.0
+LG-063,Fictional B2B logistics firm LG-063,logistics,Machakos,383.0,886000.0,,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14658.0
+SW-076,Fictional B2B software firm SW-076,b2b_software,Uasin Gishu,406.0,147000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12441.0
+LG-064,Fictional B2B logistics firm LG-064,logistics,Kiambu,581.0,854000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14562.0
+PY-051,Fictional Payments firm PY-051,payments,Nairobi,512.0,295000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12885.0
+DS-072,Fictional Distributors firm DS-072,distributors,Machakos,425.0,169000.0,,Yes,Referral,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12507.0
+MF-053,Fictional Manufacturers with dealer networks firm MF-053,manufacturers,Kiambu,200.0,422000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13266.0
+DS-073,Fictional Distributors firm DS-073,distributors,Nairobi,955.0,465000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13395.0
+MF-054,Fictional Manufacturers with dealer networks firm MF-054,manufacturers,Kiambu,296.0,863000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14589.0
+SW-077,Fictional B2B software firm SW-077,b2b_software,Nairobi,228.0,194000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12582.0
+PY-052,Fictional Payments firm PY-052,payments,Kisumu,946.0,351000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13053.0
+TT-033,Fictional B2B travel-tech firm TT-033,travel_tech,Nairobi,548.0,416000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13248.0
+PY-053,Fictional Payments firm PY-053,payments,Mombasa,4477.0,2824000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,53724.0,62196.0
+MF-055,Fictional Manufacturers with dealer networks firm MF-055,manufacturers,Machakos,421.0,,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+SW-078,Fictional B2B software firm SW-078,b2b_software,Nairobi,275.0,149000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12447.0
+DS-074,Fictional Distributors firm DS-074,distributors,Uasin Gishu,5691.0,4153000.0,Yes,Yes,Partner introduction,USD,True,,B,68292.0,80751.0
+SW-079,Fictional B2B software firm SW-079,b2b_software,Nairobi,554.0,476000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13428.0
+LG-065,Fictional B2B logistics firm LG-065,logistics,Nairobi,2423.0,6800000.0,Yes,Yes,Referral,USD,True,,B,29076.0,49476.0
+MF-056,Fictional Manufacturers with dealer networks firm MF-056,manufacturers,Nairobi,391.0,765000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,14295.0
+SW-080,Fictional B2B software firm SW-080,b2b_software,Mombasa,564.0,706000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14118.0
+SW-081,Fictional B2B software firm SW-081,b2b_software,Nairobi,631.0,632000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13896.0
+SW-082,Fictional B2B software firm SW-082,b2b_software,Mombasa,1509.0,1621000.0,Yes,No,Registry list,USD,False,no decision-maker access,Not eligible,18108.0,22971.0
+LG-066,Fictional B2B logistics firm LG-066,logistics,Nairobi,470.0,682000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14046.0
+MF-057,Fictional Manufacturers with dealer networks firm MF-057,manufacturers,Nairobi,260.0,634000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13902.0
+PY-054,Fictional Payments firm PY-054,payments,Nairobi,1246.0,413000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,14952.0,16191.0
+PY-055,Fictional Payments firm PY-055,payments,Nairobi,2145.0,534000.0,Yes,Yes,Outbound email,USD,True,,B,25740.0,27342.0
+DS-075,Fictional Distributors firm DS-075,distributors,Kisumu,1302.0,478000.0,Yes,Yes,Referral,USD,True,,B,15624.0,17058.0
+IB-038,Fictional Insurance brokers firm IB-038,insurance_brokers,Nairobi,384.0,222000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12666.0
+PY-056,Fictional Payments firm PY-056,payments,Nairobi,1118.0,376000.0,Yes,Yes,Partner introduction,USD,True,,B,13416.0,14544.0
+IB-039,Fictional Insurance brokers firm IB-039,insurance_brokers,Nairobi,1616.0,274000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,19392.0,20214.0
+MF-058,Fictional Manufacturers with dealer networks firm MF-058,manufacturers,Nairobi,413.0,483000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13449.0
+IB-040,Fictional Insurance brokers firm IB-040,insurance_brokers,Nairobi,2120.0,626000.0,No,No,Referral,USD,False,no digital records; no decision-maker access,Not eligible,25440.0,27318.0
+DS-076,Fictional Distributors firm DS-076,distributors,Machakos,735.0,230000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12690.0
+PY-057,Fictional Payments firm PY-057,payments,Nairobi,4747.0,1948000.0,Yes,Yes,Event,USD,True,,B,56964.0,62808.0
+PY-058,Fictional Payments firm PY-058,payments,Nairobi,1204.0,666000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,14448.0,16446.0
+MF-059,Fictional Manufacturers with dealer networks firm MF-059,manufacturers,Kisumu,682.0,2116000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,18348.0
+LG-067,Fictional B2B logistics firm LG-067,logistics,Nairobi,478.0,473000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13419.0
+SW-083,Fictional B2B software firm SW-083,b2b_software,Mombasa,560.0,2541000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,19623.0
+MF-060,Fictional Manufacturers with dealer networks firm MF-060,manufacturers,Nakuru,255.0,,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12000.0
+MF-061,Fictional Manufacturers with dealer networks firm MF-061,manufacturers,Mombasa,378.0,1157000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15471.0
+MF-062,Fictional Manufacturers with dealer networks firm MF-062,manufacturers,Mombasa,87.0,758000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14274.0
+LG-068,Fictional B2B logistics firm LG-068,logistics,Nairobi,1122.0,3085000.0,Yes,Yes,Registry list,USD,True,,B,13464.0,22719.0
+PY-059,Fictional Payments firm PY-059,payments,Mombasa,568.0,273000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12819.0
+LG-069,Fictional B2B logistics firm LG-069,logistics,Mombasa,264.0,1227000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15681.0
+MF-063,Fictional Manufacturers with dealer networks firm MF-063,manufacturers,Nairobi,171.0,561000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13683.0
+TT-034,Fictional B2B travel-tech firm TT-034,travel_tech,Kisumu,286.0,106000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12318.0
+LG-070,Fictional B2B logistics firm LG-070,logistics,Nairobi,209.0,341000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13023.0
+LG-071,Fictional B2B logistics firm LG-071,logistics,Machakos,239.0,203000.0,No,Yes,Referral,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12609.0
+LG-072,Fictional B2B logistics firm LG-072,logistics,Uasin Gishu,389.0,493000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13479.0
+DS-077,Fictional Distributors firm DS-077,distributors,Mombasa,800.0,489000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13467.0
+DS-078,Fictional Distributors firm DS-078,distributors,Nairobi,1612.0,910000.0,Yes,Yes,Referral,USD,True,,B,19344.0,22074.0
+PY-060,Fictional Payments firm PY-060,payments,Machakos,1802.0,1135000.0,Yes,Yes,Partner introduction,USD,True,,B,21624.0,25029.0
+SW-084,Fictional B2B software firm SW-084,b2b_software,Kiambu,374.0,376000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13128.0
+PY-061,Fictional Payments firm PY-061,payments,Nairobi,2977.0,1334000.0,Yes,Yes,Outbound email,USD,True,,B,35724.0,39726.0
+DS-079,Fictional Distributors firm DS-079,distributors,Machakos,879.0,794000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,14382.0
+DS-080,Fictional Distributors firm DS-080,distributors,Kiambu,1244.0,578000.0,Yes,Yes,Founder network,USD,True,,B,14928.0,16662.0
+SW-085,Fictional B2B software firm SW-085,b2b_software,Nakuru,348.0,519000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13557.0
+LG-073,Fictional B2B logistics firm LG-073,logistics,Other,142.0,157000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12471.0
+LG-074,Fictional B2B logistics firm LG-074,logistics,Nairobi,303.0,407000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13221.0
+DS-081,Fictional Distributors firm DS-081,distributors,Nairobi,244.0,120000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12360.0
+SW-086,Fictional B2B software firm SW-086,b2b_software,Nairobi,349.0,423000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13269.0
+DS-082,Fictional Distributors firm DS-082,distributors,Nairobi,227.0,150000.0,,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12450.0
+SW-087,Fictional B2B software firm SW-087,b2b_software,Nairobi,219.0,111000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12333.0
+TT-035,Fictional B2B travel-tech firm TT-035,travel_tech,Mombasa,219.0,272000.0,,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12816.0
+DS-083,Fictional Distributors firm DS-083,distributors,Nairobi,1086.0,567000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,13032.0,14733.0
+DS-084,Fictional Distributors firm DS-084,distributors,Mombasa,543.0,571000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13713.0
+SW-088,Fictional B2B software firm SW-088,b2b_software,Kiambu,349.0,1169000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15507.0
+LG-075,Fictional B2B logistics firm LG-075,logistics,Kiambu,566.0,874000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,14622.0
+TT-036,Fictional B2B travel-tech firm TT-036,travel_tech,Nairobi,265.0,120000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12360.0
+LG-076,Fictional B2B logistics firm LG-076,logistics,Nairobi,511.0,368000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13104.0
+DS-085,Fictional Distributors firm DS-085,distributors,Nairobi,12674.0,4183000.0,Yes,Yes,Founder network,USD,True,,B,152088.0,164637.0
+DS-086,Fictional Distributors firm DS-086,distributors,Nairobi,1372.0,924000.0,Yes,Yes,Founder network,USD,True,,B,16464.0,19236.0
+MF-064,Fictional Manufacturers with dealer networks firm MF-064,manufacturers,Nairobi,921.0,,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+SW-089,Fictional B2B software firm SW-089,b2b_software,Machakos,745.0,288000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12864.0
+DS-087,Fictional Distributors firm DS-087,distributors,Nairobi,209.0,38000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12114.0
+MF-065,Fictional Manufacturers with dealer networks firm MF-065,manufacturers,Nairobi,683.0,2800000.0,,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,20400.0
+SW-090,Fictional B2B software firm SW-090,b2b_software,Nairobi,325.0,445000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13335.0
+MF-066,Fictional Manufacturers with dealer networks firm MF-066,manufacturers,Kiambu,491.0,1391000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,16173.0
+PY-062,Fictional Payments firm PY-062,payments,Nairobi,1219.0,482000.0,Yes,Yes,Partner introduction,USD,True,,B,14628.0,16074.0
+DS-088,Fictional Distributors firm DS-088,distributors,Nairobi,542.0,312000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12936.0
+SW-091,Fictional B2B software firm SW-091,b2b_software,Kisumu,193.0,147000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12441.0
+DS-089,Fictional Distributors firm DS-089,distributors,Nakuru,1332.0,2526000.0,No,Yes,Referral,USD,False,no digital records,Not eligible,15984.0,23562.0
+MF-067,Fictional Manufacturers with dealer networks firm MF-067,manufacturers,Machakos,2458.0,9738000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,29496.0,58710.0
+IB-041,Fictional Insurance brokers firm IB-041,insurance_brokers,Mombasa,1311.0,591000.0,Yes,Yes,Outbound email,USD,True,,B,15732.0,17505.0
+SW-092,Fictional B2B software firm SW-092,b2b_software,Nakuru,749.0,1526000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,16578.0
+DS-090,Fictional Distributors firm DS-090,distributors,Nairobi,1269.0,1269000.0,Yes,Yes,Partner introduction,USD,True,,B,15228.0,19035.0
+PY-063,Fictional Payments firm PY-063,payments,Mombasa,11066.0,2903000.0,,Yes,Outbound email,USD,False,no digital records,Not eligible,132792.0,141501.0
+MF-068,Fictional Manufacturers with dealer networks firm MF-068,manufacturers,Mombasa,1530.0,4495000.0,Yes,Yes,Outbound email,USD,True,,B,18360.0,31845.0
+DS-091,Fictional Distributors firm DS-091,distributors,Nairobi,395.0,760000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14280.0
+LG-077,Fictional B2B logistics firm LG-077,logistics,Other,282.0,144000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12432.0
+PY-064,Fictional Payments firm PY-064,payments,Other,2140.0,938000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,25680.0,28494.0
+TT-037,Fictional B2B travel-tech firm TT-037,travel_tech,Mombasa,589.0,430000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13290.0
+SW-093,Fictional B2B software firm SW-093,b2b_software,Mombasa,335.0,663000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13989.0
+TT-038,Fictional B2B travel-tech firm TT-038,travel_tech,Nairobi,470.0,1026000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15078.0
+PY-065,Fictional Payments firm PY-065,payments,Kiambu,10177.0,3305000.0,Yes,Yes,Event,USD,True,,B,122124.0,132039.0
+TT-039,Fictional B2B travel-tech firm TT-039,travel_tech,Nairobi,1905.0,2895000.0,No,No,Registry list,USD,False,no digital records; no decision-maker access,Not eligible,22860.0,31545.0
+PY-066,Fictional Payments firm PY-066,payments,Machakos,1752.0,266000.0,Yes,Yes,Founder network,USD,True,,B,21024.0,21822.0
+LG-078,Fictional B2B logistics firm LG-078,logistics,Nakuru,2392.0,3321000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,28704.0,38667.0
+IB-042,Fictional Insurance brokers firm IB-042,insurance_brokers,Mombasa,3381.0,687000.0,Yes,Yes,Founder network,USD,True,,B,40572.0,42633.0
+SW-094,Fictional B2B software firm SW-094,b2b_software,Nairobi,373.0,431000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13293.0
+MF-069,Fictional Manufacturers with dealer networks firm MF-069,manufacturers,Nairobi,542.0,2103000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,18309.0
+DS-092,Fictional Distributors firm DS-092,distributors,Kisumu,1805.0,,Yes,Yes,Registry list,USD,True,,B,21660.0,21660.0
+SW-095,Fictional B2B software firm SW-095,b2b_software,Uasin Gishu,597.0,488000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13464.0
+TT-040,Fictional B2B travel-tech firm TT-040,travel_tech,Nairobi,219.0,245000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12735.0
+DS-093,Fictional Distributors firm DS-093,distributors,Nairobi,352.0,283000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12849.0
+IB-043,Fictional Insurance brokers firm IB-043,insurance_brokers,Nairobi,5893.0,1602000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,70716.0,75522.0
+DS-094,Fictional Distributors firm DS-094,distributors,Machakos,439.0,326000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12978.0
+SW-096,Fictional B2B software firm SW-096,b2b_software,Nairobi,437.0,322000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12966.0
+TT-041,Fictional B2B travel-tech firm TT-041,travel_tech,Other,729.0,1130000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15390.0
+SW-097,Fictional B2B software firm SW-097,b2b_software,Nairobi,454.0,816000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14448.0
+LG-079,Fictional B2B logistics firm LG-079,logistics,Machakos,292.0,,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12000.0
+DS-095,Fictional Distributors firm DS-095,distributors,Nairobi,518.0,219000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12657.0
+IB-044,Fictional Insurance brokers firm IB-044,insurance_brokers,Nairobi,317.0,133000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12399.0
+PY-067,Fictional Payments firm PY-067,payments,Nairobi,1282.0,553000.0,Yes,Yes,Founder network,USD,True,,B,15384.0,17043.0
+LG-080,Fictional B2B logistics firm LG-080,logistics,Nakuru,943.0,,,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12000.0
+LG-081,Fictional B2B logistics firm LG-081,logistics,Nairobi,329.0,665000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13995.0
+MF-070,Fictional Manufacturers with dealer networks firm MF-070,manufacturers,Mombasa,324.0,2302000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,18906.0
+SW-098,Fictional B2B software firm SW-098,b2b_software,Other,3235.0,5432000.0,Yes,Yes,Outbound email,USD,True,,B,38820.0,55116.0
+PY-068,Fictional Payments firm PY-068,payments,Mombasa,1630.0,606000.0,No,Yes,Founder network,USD,False,no digital records,Not eligible,19560.0,21378.0
+LG-082,Fictional B2B logistics firm LG-082,logistics,Nairobi,165.0,468000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13404.0
+LG-083,Fictional B2B logistics firm LG-083,logistics,Nairobi,1071.0,996000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,12852.0,15840.0
+DS-096,Fictional Distributors firm DS-096,distributors,Nairobi,111.0,68000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12204.0
+MF-071,Fictional Manufacturers with dealer networks firm MF-071,manufacturers,Nairobi,608.0,1227000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15681.0
+PY-069,Fictional Payments firm PY-069,payments,Nairobi,9335.0,3040000.0,Yes,Yes,Partner introduction,USD,True,,B,112020.0,121140.0
+SW-099,Fictional B2B software firm SW-099,b2b_software,Nairobi,201.0,,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12000.0
+IB-045,Fictional Insurance brokers firm IB-045,insurance_brokers,Kiambu,1061.0,387000.0,Yes,Yes,Event,USD,True,,B,12732.0,13893.0
+MF-072,Fictional Manufacturers with dealer networks firm MF-072,manufacturers,Nairobi,117.0,414000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13242.0
+PY-070,Fictional Payments firm PY-070,payments,Kiambu,7792.0,2746000.0,Yes,Yes,Referral,USD,True,,B,93504.0,101742.0
+LG-084,Fictional B2B logistics firm LG-084,logistics,Nairobi,319.0,1207000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,15621.0
+DS-097,Fictional Distributors firm DS-097,distributors,Machakos,474.0,326000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12978.0
+MF-073,Fictional Manufacturers with dealer networks firm MF-073,manufacturers,Kisumu,106.0,202000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12606.0
+SW-100,Fictional B2B software firm SW-100,b2b_software,Nairobi,181.0,120000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12360.0
+DS-098,Fictional Distributors firm DS-098,distributors,Machakos,1146.0,447000.0,No,Yes,Founder network,USD,False,no digital records,Not eligible,13752.0,15093.0
+PY-071,Fictional Payments firm PY-071,payments,Mombasa,2491.0,647000.0,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,29892.0,31833.0
+TT-042,Fictional B2B travel-tech firm TT-042,travel_tech,Nairobi,773.0,595000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13785.0
+DS-099,Fictional Distributors firm DS-099,distributors,Nairobi,206.0,104000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12312.0
+MF-074,Fictional Manufacturers with dealer networks firm MF-074,manufacturers,Nairobi,232.0,340000.0,,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13020.0
+LG-085,Fictional B2B logistics firm LG-085,logistics,Mombasa,218.0,167000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12501.0
+DS-100,Fictional Distributors firm DS-100,distributors,Uasin Gishu,1545.0,1646000.0,No,Yes,Referral,USD,False,no digital records,Not eligible,18540.0,23478.0
+LG-086,Fictional B2B logistics firm LG-086,logistics,Uasin Gishu,151.0,546000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13638.0
+MF-075,Fictional Manufacturers with dealer networks firm MF-075,manufacturers,Nairobi,914.0,1635000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,16905.0
+MF-076,Fictional Manufacturers with dealer networks firm MF-076,manufacturers,Uasin Gishu,215.0,396000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13188.0
+LG-087,Fictional B2B logistics firm LG-087,logistics,Other,2814.0,7246000.0,Yes,Yes,Event,USD,True,,B,33768.0,55506.0
+LG-088,Fictional B2B logistics firm LG-088,logistics,Mombasa,200.0,186000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12558.0
+SW-101,Fictional B2B software firm SW-101,b2b_software,Nakuru,68.0,,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12000.0
+DS-101,Fictional Distributors firm DS-101,distributors,Nakuru,636.0,384000.0,No,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13152.0
+LG-089,Fictional B2B logistics firm LG-089,logistics,Kisumu,1958.0,1766000.0,Yes,Yes,Event,USD,True,,B,23496.0,28794.0
+SW-102,Fictional B2B software firm SW-102,b2b_software,Nairobi,570.0,501000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13503.0
+LG-090,Fictional B2B logistics firm LG-090,logistics,Kiambu,1324.0,3039000.0,Yes,Yes,Partner introduction,USD,True,,B,15888.0,25005.0
+LG-091,Fictional B2B logistics firm LG-091,logistics,Nairobi,835.0,1347000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,16041.0
+TT-043,Fictional B2B travel-tech firm TT-043,travel_tech,Nairobi,845.0,1038000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15114.0
+DS-102,Fictional Distributors firm DS-102,distributors,Mombasa,1053.0,303000.0,No,Yes,Founder network,USD,False,no digital records,Not eligible,12636.0,13545.0
+TT-044,Fictional B2B travel-tech firm TT-044,travel_tech,Machakos,1555.0,2593000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,18660.0,26439.0
+MF-077,Fictional Manufacturers with dealer networks firm MF-077,manufacturers,Uasin Gishu,976.0,878000.0,No,No,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,14634.0
+DS-103,Fictional Distributors firm DS-103,distributors,Kiambu,293.0,129000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12387.0
+LG-092,Fictional B2B logistics firm LG-092,logistics,Nairobi,374.0,1279000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15837.0
+LG-093,Fictional B2B logistics firm LG-093,logistics,Nairobi,309.0,332000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12996.0
+SW-103,Fictional B2B software firm SW-103,b2b_software,Uasin Gishu,677.0,469000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13407.0
+LG-094,Fictional B2B logistics firm LG-094,logistics,Nakuru,358.0,,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12000.0
+PY-072,Fictional Payments firm PY-072,payments,Nairobi,1267.0,379000.0,No,No,Founder network,USD,False,no digital records; no decision-maker access,Not eligible,15204.0,16341.0
+TT-045,Fictional B2B travel-tech firm TT-045,travel_tech,Nairobi,1359.0,1919000.0,Yes,Yes,Referral,USD,True,,B,16308.0,22065.0
+LG-095,Fictional B2B logistics firm LG-095,logistics,Nairobi,368.0,310000.0,Yes,Yes,Outbound email,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12930.0
+SW-104,Fictional B2B software firm SW-104,b2b_software,Nairobi,476.0,281000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12843.0
+DS-104,Fictional Distributors firm DS-104,distributors,Nairobi,432.0,333000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12999.0
+TT-046,Fictional B2B travel-tech firm TT-046,travel_tech,Kisumu,872.0,1073000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15219.0
+PY-073,Fictional Payments firm PY-073,payments,Nairobi,354.0,254000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12762.0
+IB-046,Fictional Insurance brokers firm IB-046,insurance_brokers,Nairobi,292.0,147000.0,No,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12441.0
+IB-047,Fictional Insurance brokers firm IB-047,insurance_brokers,Other,614.0,70000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12210.0
+IB-048,Fictional Insurance brokers firm IB-048,insurance_brokers,Machakos,2556.0,,Yes,No,Outbound email,USD,False,no decision-maker access,Not eligible,30672.0,30672.0
+SW-105,Fictional B2B software firm SW-105,b2b_software,Kiambu,647.0,378000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13134.0
+DS-105,Fictional Distributors firm DS-105,distributors,Other,2048.0,1095000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,24576.0,27861.0
+SW-106,Fictional B2B software firm SW-106,b2b_software,Nairobi,760.0,1193000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,15579.0
+SW-107,Fictional B2B software firm SW-107,b2b_software,Nairobi,2254.0,1609000.0,Yes,Yes,Founder network,USD,True,,B,27048.0,31875.0
+MF-078,Fictional Manufacturers with dealer networks firm MF-078,manufacturers,Nairobi,80.0,145000.0,No,No,Registry list,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12435.0
+LG-096,Fictional B2B logistics firm LG-096,logistics,Nairobi,1645.0,2285000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,19740.0,26595.0
+PY-074,Fictional Payments firm PY-074,payments,Nairobi,1383.0,400000.0,Yes,Yes,Registry list,USD,True,,B,16596.0,17796.0
+DS-106,Fictional Distributors firm DS-106,distributors,Nairobi,132.0,55000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12165.0
+MF-079,Fictional Manufacturers with dealer networks firm MF-079,manufacturers,Machakos,278.0,559000.0,Yes,Yes,Event,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13677.0
+MF-080,Fictional Manufacturers with dealer networks firm MF-080,manufacturers,Kiambu,523.0,798000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,14394.0
+SW-108,Fictional B2B software firm SW-108,b2b_software,Other,73.0,35000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12105.0
+SW-109,Fictional B2B software firm SW-109,b2b_software,Nairobi,375.0,1639000.0,Yes,No,Partner introduction,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,16917.0
+MF-081,Fictional Manufacturers with dealer networks firm MF-081,manufacturers,Mombasa,100.0,447000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13341.0
+LG-097,Fictional B2B logistics firm LG-097,logistics,Machakos,1431.0,3705000.0,No,No,Referral,USD,False,no digital records; no decision-maker access,Not eligible,17172.0,28287.0
+SW-110,Fictional B2B software firm SW-110,b2b_software,Other,2393.0,5540000.0,Yes,Yes,Referral,USD,True,,B,28716.0,45336.0
+DS-107,Fictional Distributors firm DS-107,distributors,Nairobi,1482.0,1017000.0,No,Yes,Referral,USD,False,no digital records,Not eligible,17784.0,20835.0
+PY-075,Fictional Payments firm PY-075,payments,Uasin Gishu,98.0,38000.0,Yes,No,Founder network,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12114.0
+DS-108,Fictional Distributors firm DS-108,distributors,Nairobi,1378.0,389000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,16536.0,17703.0
+TT-047,Fictional B2B travel-tech firm TT-047,travel_tech,Mombasa,473.0,294000.0,Yes,Yes,Registry list,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12882.0
+TT-048,Fictional B2B travel-tech firm TT-048,travel_tech,Kisumu,406.0,333000.0,Yes,No,Registry list,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12999.0
+IB-049,Fictional Insurance brokers firm IB-049,insurance_brokers,Kiambu,4034.0,4833000.0,No,Yes,Outbound email,USD,False,no digital records,Not eligible,48408.0,62907.0
+TT-049,Fictional B2B travel-tech firm TT-049,travel_tech,Mombasa,934.0,1119000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,15357.0
+MF-082,Fictional Manufacturers with dealer networks firm MF-082,manufacturers,Nairobi,107.0,389000.0,Yes,Yes,Referral,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13167.0
+SW-111,Fictional B2B software firm SW-111,b2b_software,Nairobi,691.0,767000.0,,No,Founder network,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,14301.0
+MF-083,Fictional Manufacturers with dealer networks firm MF-083,manufacturers,Nairobi,131.0,98000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12294.0
+LG-098,Fictional B2B logistics firm LG-098,logistics,Nairobi,451.0,1038000.0,Yes,No,Referral,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,15114.0
+MF-084,Fictional Manufacturers with dealer networks firm MF-084,manufacturers,Nairobi,73.0,136000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12408.0
+PY-076,Fictional Payments firm PY-076,payments,Nairobi,1662.0,681000.0,Yes,No,Partner introduction,USD,False,no decision-maker access,Not eligible,19944.0,21987.0
+LG-099,Fictional B2B logistics firm LG-099,logistics,Nairobi,890.0,1671000.0,Yes,No,Outbound email,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,17013.0
+SW-112,Fictional B2B software firm SW-112,b2b_software,Machakos,900.0,1417000.0,No,Yes,Event,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,16251.0
+MF-085,Fictional Manufacturers with dealer networks firm MF-085,manufacturers,Nairobi,724.0,1145000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,15435.0
+PY-077,Fictional Payments firm PY-077,payments,Nairobi,25874.0,9757000.0,No,Yes,Registry list,USD,False,no digital records,Not eligible,310488.0,339759.0
+LG-100,Fictional B2B logistics firm LG-100,logistics,Nakuru,300.0,530000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,13590.0
+IB-050,Fictional Insurance brokers firm IB-050,insurance_brokers,Nairobi,1951.0,976000.0,Yes,No,Referral,USD,False,no decision-maker access,Not eligible,23412.0,26340.0
+DS-109,Fictional Distributors firm DS-109,distributors,Nairobi,3150.0,1470000.0,No,No,Event,USD,False,no digital records; no decision-maker access,Not eligible,37800.0,42210.0
+LG-101,Fictional B2B logistics firm LG-101,logistics,Nairobi,1005.0,,No,Yes,Event,USD,False,no digital records,Not eligible,12060.0,12060.0
+DS-110,Fictional Distributors firm DS-110,distributors,Nakuru,,405000.0,No,No,Outbound email,USD,False,accounts unknown; no digital records; no decision-maker access,Not eligible,,
+PY-078,Fictional Payments firm PY-078,payments,Nairobi,1081.0,244000.0,Yes,No,Founder network,USD,False,no decision-maker access,Not eligible,12972.0,13704.0
+IB-051,Fictional Insurance brokers firm IB-051,insurance_brokers,Nairobi,816.0,108000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,12324.0
+DS-111,Fictional Distributors firm DS-111,distributors,Uasin Gishu,590.0,217000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12651.0
+LG-102,Fictional B2B logistics firm LG-102,logistics,Nairobi,384.0,483000.0,Yes,Yes,Founder network,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,13449.0
+LG-103,Fictional B2B logistics firm LG-103,logistics,Nakuru,2731.0,1911000.0,No,No,Registry list,USD,False,no digital records; no decision-maker access,Not eligible,32772.0,38505.0
+DS-112,Fictional Distributors firm DS-112,distributors,Other,534.0,248000.0,No,No,Event,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,12744.0
+MF-086,Fictional Manufacturers with dealer networks firm MF-086,manufacturers,Mombasa,1207.0,2767000.0,Yes,Yes,Event,USD,True,,B,14484.0,22785.0
+TT-050,Fictional B2B travel-tech firm TT-050,travel_tech,Nakuru,1855.0,2436000.0,Yes,No,Event,USD,False,no decision-maker access,Not eligible,22260.0,29568.0
+MF-087,Fictional Manufacturers with dealer networks firm MF-087,manufacturers,Nakuru,965.0,1847000.0,No,Yes,Founder network,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17541.0
+MF-088,Fictional Manufacturers with dealer networks firm MF-088,manufacturers,Nairobi,167.0,584000.0,No,No,Referral,USD,False,"fewer than 1,000 accounts; no digital records; no decision-maker access",Not eligible,12000.0,13752.0
+DS-113,Fictional Distributors firm DS-113,distributors,Kiambu,121.0,75000.0,No,Yes,Outbound email,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,12225.0
+SW-113,Fictional B2B software firm SW-113,b2b_software,Nairobi,810.0,694000.0,Yes,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts",Not eligible,12000.0,14082.0
+TT-051,Fictional B2B travel-tech firm TT-051,travel_tech,Nairobi,248.0,228000.0,Yes,No,Event,USD,False,"fewer than 1,000 accounts; no decision-maker access",Not eligible,12000.0,12684.0
+LG-104,Fictional B2B logistics firm LG-104,logistics,Nairobi,590.0,565000.0,No,Yes,Registry list,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,13695.0
+PY-079,Fictional Payments firm PY-079,payments,Uasin Gishu,4556.0,1539000.0,No,Yes,Event,USD,False,no digital records,Not eligible,54672.0,59289.0
+MF-089,Fictional Manufacturers with dealer networks firm MF-089,manufacturers,Nairobi,378.0,1987000.0,No,Yes,Partner introduction,USD,False,"fewer than 1,000 accounts; no digital records",Not eligible,12000.0,17961.0
